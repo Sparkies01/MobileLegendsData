@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Classic",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Classic_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204075319",
+    "script": "1"
+  },
+  {
+    "name": "STAR",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/STAR_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204051059",
+    "script": "2"
+  },
+  {
+    "name": "Calamity's End",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Calamity%27s_End_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204075354",
+    "script": "3"
+  },
+  {
+    "name": "Evos M1 Champion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/M1_Champion_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204080335",
+    "script": "4"
+  },
+  {
+    "name": "K.O",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/K.O_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204075914",
+    "script": "5"
+  },
+  {
+    "name": "R.I.P",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/R.I.P_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204051320",
+    "script": "6"
+  },
+  {
+    "name": "Roaming Ghost",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Roaming_Ghost_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204080035",
+    "script": "7"
+  },
+  {
+    "name": "Super Kill",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Super_Kill_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204080135",
+    "script": "8"
+  },
+  {
+    "name": "The Sword",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/The_Elimination_of_The_Sword_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204075444",
+    "script": "9"
+  },
+  {
+    "name": "Celebrate",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Time_to_Celebrate_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204080215",
+    "script": "10"
+  },
+  {
+    "name": "The Storm",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Elimination_of_the_Storm_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204050913",
+    "script": "11"
+  },
+  {
+    "name": "Thunder Strikes",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Thunder_Strikes_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204075809",
+    "script": "12"
+  },
+  {
+    "name": "S.T.U.N",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Joyous_Party_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204050845",
+    "script": "13"
+  },
+  {
+    "name": "The Future",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Elimination_of_the_Future_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20210712121922",
+    "script": "14"
+  },
+  {
+    "name": "Strike of Hope",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Strike_of_Hope_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20220126132205",
+    "script": "15"
+  },
+  {
+    "name": "Sanrio",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Knockout_Uh%2C_Next_Time_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20220307094032",
+    "script": "16"
+  },
+  {
+    "name": "Knockout",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Knockout_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20210907052054",
+    "script": "17"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Classic",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Classic_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203144023",
+    "script": "1"
+  },
+  {
+    "name": "The Arrival",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/The_Arrival_of_The_Sword_Spawn_Effect.png/revision/latest?cb=20211203154718",
+    "script": "2"
+  },
+  {
+    "name": "Super Descent",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Super_Descent_Spawn_Effect.png/revision/latest?cb=20211203154549",
+    "script": "3"
+  },
+  {
+    "name": "2019 M1 Glory",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/2019_M1_Glory_Spawn_Effect.png/revision/latest?cb=20211203154450",
+    "script": "4"
+  },
+  {
+    "name": "M1 Champion Evos",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/M1_Champion_Spawn_Effect.png/revision/latest?cb=20211203154612",
+    "script": "5"
+  },
+  {
+    "name": "Halloween",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Halloween_Spawn_Effect.png/revision/latest?cb=20211203145335",
+    "script": "6"
+  },
+  {
+    "name": "MCL Tournament",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/MCL_Tournament_Spawn_Effect.png/revision/latest?cb=20211203152003",
+    "script": "7"
+  },
+  {
+    "name": "MSC Tournament",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/MSC_Tournament_Spawn_Effect.png/revision/latest?cb=20211203152026",
+    "script": "8"
+  },
+  {
+    "name": "Sky Guardian",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Sky_Guardian_Spawn_Effect.png/revision/latest?cb=20211203152114",
+    "script": "9"
+  },
+  {
+    "name": "The Storm",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Arrival_of_the_Storm_Spawn_Effect.png/revision/latest?cb=20211203160708",
+    "script": "10"
+  },
+  {
+    "name": "Thunder Arrives",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Thunder_Arrives_Spawn_Effect.png/revision/latest?cb=20211203154825",
+    "script": "11"
+  },
+  {
+    "name": "The Future",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Arrival_of_the_Future_Spawn_Effect.png/revision/latest?cb=20210712122350",
+    "script": "12"
+  },
+  {
+    "name": "515 eParty",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/515_eParty_Spawn_Effect.png/revision/latest?cb=20211203160805",
+    "script": "13"
+  },
+  {
+    "name": "Combat ready",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Combat_ready_Spawn_Effect.png/revision/latest?cb=20211203125703",
+    "script": "14"
+  },
+  {
+    "name": "Darkest Arrival",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Darkest_Arrival_Spawn_Effect.png/revision/latest?cb=20211204082940",
+    "script": "15"
+  },
+  {
+    "name": "Hello Kitty",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Arrival_Hello_Kitty%21_Spawn_Effect.png/revision/latest?cb=20220307094007",
+    "script": "16"
+  },
+  {
+    "name": "Exorcist",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Enticing_Arrival_Spawn_Effect.png/revision/latest?cb=20220115045422",
+    "script": "17"
+  },
+  {
+    "name": "Saint Seiya",
+    "img": "https://github.com/lanz132/1.74/raw/main/S3.jpg",
+    "script": "18"
+  }
+]

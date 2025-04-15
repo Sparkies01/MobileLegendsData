@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Classic",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Classic_Notification.png/revision/latest/scale-to-width-down/100?cb=20211203140825",
+    "script": "1"
+  },
+  {
+    "name": "Crystal",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Crystal_Notification.png/revision/latest/scale-to-width-down/100?cb=20211203141618",
+    "script": "2"
+  },
+  {
+    "name": "Lightborn's Declaration",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Lightborn%27s_Declaration_Notification.png/revision/latest/scale-to-width-down/100?cb=20211203141128",
+    "script": "3"
+  },
+  {
+    "name": "Shinto Shrine",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Shinto_Shrine_Notification.png/revision/latest/scale-to-width-down/100?cb=20211203142131",
+    "script": "4"
+  },
+  {
+    "name": "Summer Gala",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Summer_Gala_Notification.png/revision/latest/scale-to-width-down/100?cb=20211203141628",
+    "script": "5"
+  },
+  {
+    "name": "Starlight",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Starlight_Notification.png/revision/latest/scale-to-width-down/100?cb=20211203143017",
+    "script": "6"
+  }
+]
