@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Naruto Uzumaki",
+    "img": "https://github.com/lanz132/BANNER/raw/main/naruto.jpg"
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "img": "https://github.com/lanz132/BANNER/raw/main/sasuke.jpg"
+  },
+  {
+    "name": "Kakashi Hatake",
+    "img": "https://github.com/lanz132/BANNER/raw/main/kakashe.jpg"
+  },
+  {
+    "name": "Kalea Sakura",
+    "img": "https://github.com/lanz132/BANNER/raw/main/sakura.jpg"
+  },
+  {
+    "name": "Gaara",
+    "img": "https://github.com/lanz132/BANNER/raw/main/gaara.jpg"
+  }
+]
