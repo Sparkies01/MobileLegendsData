@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Paenlong Legend",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
+    "script": "78"
+  },
+  {
+    "name": "Major General",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest?cb=20220525164949",
+    "script": "79"
+  },
+  {
+    "name": "Apocalypse Agent",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest?cb=20220525164950",
+    "script": "80",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Roguish Ranger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero304-portrait.png/revision/latest?cb=20220525164951",
+    "script": "81",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Lone Destructor",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
+    "script": "82",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+  },
+  {
+    "name": "Azure Sentry",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest?cb=20220525164954",
+    "script": "83",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Fleet Warden",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest?cb=20220628180302",
+    "script": "84",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Surging Torrent",
+    "img": "https://raw.githubusercontent.com/kinAgonace/Img/main/IMG_20240101_183030.jpg",
+    "script": "158"
+  }
+]

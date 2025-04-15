@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Dawnbreak Soldier",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20220525170412",
+    "script": "134"
+  },
+  {
+    "name": "X Factor",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest?cb=20220525170421",
+    "script": "135"
+  },
+  {
+    "name": "Blitz Attack",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest?cb=20220525170422",
+    "script": "136",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Space Agent",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1054-portrait.png/revision/latest?cb=20220525170423",
+    "script": "137",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Stellar Briliance",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
+    "script": "138",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20211201153613"
+  },
+  {
+    "name": "Light Chaser",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest?cb=20221216103144",
+    "script": "139",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/M4_Skin_Tag.png/revision/latest?cb=20230214083550"
+  },
+  {
+    "name": "Vibrant Fiesta",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1057-portrait.png/revision/latest?cb=20230805043918",
+    "script": "149",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  }
+]

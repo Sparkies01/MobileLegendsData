@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Spacetime Walker",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1071-portrait.png/revision/latest?cb=20220525171604",
+    "script": "140"
+  },
+  {
+    "name": "Time Wielder",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1072-portrait.png/revision/latest?cb=20220525170443",
+    "script": "141"
+  },
+  {
+    "name": "Chaos Hunter",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest?cb=20220525170444",
+    "script": "142",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Captain Chrono",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1074-portrait.png/revision/latest?cb=20220628180007",
+    "script": "143",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Tidal Lord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1075-portrait.png/revision/latest?cb=20230212035443",
+    "script": "144",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+  },
+  {
+    "name": "Temporal Vortex",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZAMPssHGi_GILQprKBD18sq8SP3NRTOGoi8wSK4BvfSfAw4XIcTA_Rk1NHaz1wmkpv9VY5ueTU7JCI_Ol-CdFU2ygYHGkakwqSRJ3SPvYqTVcOl2ETPRjkNlPCFPtGyndf-7Aw6-pQKrhZJVqls_uXgfASUU_b819xnTTirvWT1IjQ4PDP3L4C2QSn21/s1560/natan-special-skin-wallpaper.png",
+    "script": "160",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Jungle Heart",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png/revision/latest?cb=20220525165209",
+    "script": "118"
+  },
+  {
+    "name": "Nightarrow",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero434-portrait.png/revision/latest?cb=20220525165213",
+    "script": "119",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Hellfire",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero433-portrait.png/revision/latest?cb=20220525165212",
+    "script": "120"
+  },
+  {
+    "name": "Astral Wanderer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero436-portrait.png/revision/latest?cb=20220920091656",
+    "script": "121",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Sagittarius",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero435-portrait.png/revision/latest?cb=20220525165214",
+    "script": "122",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+  },
+  {
+    "name": "Monster SP Rider",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest?cb=20230917045310",
+    "script": "151",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Ducati_Skin_Tag.png/revision/latest/thumbnail-down/width/77/height/20?cb=20230915123933"
+  },
+  {
+    "name": "Checked Knight",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Irithel%20strlight%20new.png",
+    "script": "177"
+  }
+]

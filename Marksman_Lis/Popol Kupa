@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Iceland Companions",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20220525170226",
+    "script": "123"
+  },
+  {
+    "name": "Hunting Pals",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero942-portrait.png/revision/latest?cb=20220525170230",
+    "script": "124"
+  },
+  {
+    "name": "Tribal Howl",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero943-portrait.png/revision/latest?cb=20220525170231",
+    "script": "125",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Soundwave and Ravage",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero945-portrait.png/revision/latest?cb=20220525170232",
+    "script": "126",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cb=20220217000003"
+  },
+  {
+    "name": "Trouble Makers",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero944-portrait.png/revision/latest?cb=20220526053625",
+    "script": "127",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Spirit of the Brush",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/popol.jpg",
+    "script": "154"
+  }
+]
