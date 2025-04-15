@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Black Dragon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20220525170233",
+    "script": 118,
+    "tag": null
+  },
+  {
+    "name": "Emerald Dragon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest?cb=20220525170237",
+    "script": 119,
+    "tag": null
+  },
+  {
+    "name": "Biohazard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest?cb=20220525170238",
+    "script": 120,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Blood Serpent",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest?cb=20220525170239",
+    "script": 121,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+  },
+  {
+    "name": "Exorcist Dragon",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgZWnNHMIy3YCefgk0eHUNQM3FK2Gc3OUnw&usqp=CAU",
+    "script": 122,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/The_Exorcists_Skin_Tag.png/revision/latest/thumbnail-down/width/53/height/20?cb=20220915140207"
+  },
+  {
+    "name": "Dragon of Shade",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/yuzhong1.jpg",
+    "script": 197,
+    "tag": null
+  },
+  {
+    "name": "Cosmic Dragon",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/yuzhong2.jpg",
+    "script": 198,
+    "tag": null
+  }
+]

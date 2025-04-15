@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Storm Sword",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
+    "script": 150,
+    "tag": null
+  },
+  {
+    "name": "Hell Knight",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero672-portrait.png/revision/latest?cb=20220628173711",
+    "script": 151,
+    "tag": null
+  },
+  {
+    "name": "Frostborn Paladin",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero673-portrait.png/revision/latest?cb=20220525165656",
+    "script": 152,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Triumph - Eagle",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero674-portrait.png/revision/latest?cb=20220525165657",
+    "script": 153,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Jack-o'-lantern",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero676-portrait.png/revision/latest?cb=20220525165738",
+    "script": 154,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20221111140633"
+  },
+  {
+    "name": "Inferno Soul",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest?cb=20230514163416",
+    "script": 155,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216162258"
+  },
+  {
+    "name": "Shadow Knight",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero677-portrait.png/revision/latest?cb=20221216103141",
+    "script": 156,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220217000011"
+  },
+  {
+    "name": "Diavel V4 Rider",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/Leomord%20ducati.png",
+    "script": 218,
+    "tag": null
+  },
+  {
+    "name": "Nightmare Count",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest?cb=20250307123904",
+    "script": 237,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216162258"
+  }
+]

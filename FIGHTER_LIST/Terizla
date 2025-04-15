@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Executioner",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest?cb=20220525165940",
+    "script": 99,
+    "tag": null
+  },
+  {
+    "name": "Flare",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero823-portrait.png/revision/latest?cb=20220525165944",
+    "script": 100,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Hammer Giant",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero824-portrait.png/revision/latest?cb=20220525165945",
+    "script": 101,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20221111140633"
+  },
+  {
+    "name": "Abyss Guard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero822-portrait.png/revision/latest?cb=20220525165943",
+    "script": 102,
+    "tag": null
+  },
+  {
+    "name": "Rustwreck",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero825-portrait.png/revision/latest?cb=20220525165946",
+    "script": 103,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/S22_Skin_Tag.png/revision/latest/thumbnail-down/width/36/height/20?cb=20211201165110"
+  },
+  {
+    "name": "Flames of Judgement",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/ter.jpg",
+    "script": 210,
+    "tag": null
+  },
+  {
+    "name": "Soul Blight Tyrant",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Terizla%20collector.png",
+    "script": 224,
+    "tag": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Ashura King",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
+    "script": 87,
+    "tag": null
+  },
+  {
+    "name": "Searing Maw",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest?cb=20220525165507",
+    "script": 88,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "God of War",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest?cb=20220804115332",
+    "script": 89,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216162258"
+  },
+  {
+    "name": "Capricorn",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest?cb=20220525165509",
+    "script": 90,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+  },
+  {
+    "name": "Tyrant",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest?cb=20220525165506",
+    "script": 91,
+    "tag": null
+  },
+  {
+    "name": "Death Rock",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero586-portrait.png/revision/latest?cb=20220525165510",
+    "script": 92,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Levi Ackerman",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest?cb=20240129101655",
+    "script": 205,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png/revision/latest/thumbnail-down/width/74/height/20?cb=20240127075501"
+  },
+  {
+    "name": "Dark Water Terror",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/Martis%20starlight.png",
+    "script": 221,
+    "tag": null
+  }
+]

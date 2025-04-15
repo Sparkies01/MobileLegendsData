@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Blade of Enmity",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20220525164911",
+    "script": 52,
+    "tag": null
+  },
+  {
+    "name": "Fierce Dragon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero283-portrait.png/revision/latest?cb=20220525164920",
+    "script": 53,
+    "tag": null
+  },
+  {
+    "name": "Sea Gladiator",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero284-portrait.png/revision/latest?cb=20220525164921",
+    "script": 54,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/S6_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20210522142206"
+  },
+  {
+    "name": "Onimusha Commander",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero282-portrait.png/revision/latest?cb=20220525164918",
+    "script": 55,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Crimson Warrior",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest?cb=20220525164922",
+    "script": 56,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "General Void",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero286-portrait.png/revision/latest?cb=20220525164923",
+    "script": 57,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220217000011"
+  },
+  {
+    "name": "Star Enforcer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest?cb=20230805043831",
+    "script": 196,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Mecha-King Perseus",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/Alpha%20collector.png",
+    "script": 214,
+    "tag": null
+  },
+  {
+    "name": "Revenant of Roses",
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/Alpha%20legend.png",
+    "script": 234,
+    "tag": null
+  }
+]

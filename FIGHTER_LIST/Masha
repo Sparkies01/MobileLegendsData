@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Wild-oats Fist",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+    "script": 104,
+    "tag": null
+  },
+  {
+    "name": "Combat Maiden",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero883-portrait.png/revision/latest?cb=20220525170110",
+    "script": 105,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Dragon Armor",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero884-portrait.png/revision/latest?cb=20220525170110",
+    "script": 106,
+    "tag": null
+  },
+  {
+    "name": "Spirited Gauntlet",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero885-portrait.png/revision/latest?cb=20220525170111",
+    "script": 107,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/S23_Skin_Tag.png/revision/latest/thumbnail-down/width/36/height/20?cb=20211201165131"
+  },
+  {
+    "name": "Rogue Talon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero886-portrait.png/revision/latest?cb=20221103134619",
+    "script": 108,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Mai Shiranui",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/Masha%20kof%20'97.png",
+    "script": 212,
+    "tag": null
+  }
+]

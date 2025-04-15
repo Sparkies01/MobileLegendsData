@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Contractor",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20220525165611",
+    "script": 12,
+    "tag": null
+  },
+  {
+    "name": "Red Mantle",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest?cb=20220525165619",
+    "script": 77,
+    "tag": null
+  },
+  {
+    "name": "The Insentient",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest?cb=20220525165621",
+    "script": 13,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "King of Supremacy",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest?cb=20220525165622",
+    "script": 14,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/M1_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203123912"
+  },
+  {
+    "name": "Blazing Force",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero646-portrait.png/revision/latest?cb=20220525165623",
+    "script": 15,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220714101551"
+  },
+  {
+    "name": "Death",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero643-portrait.png/revision/latest?cb=20220525165620",
+    "script": 16,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Realm Watcher",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cb=20220525165624",
+    "script": 17,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+  },
+  {
+    "name": "Starscream",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest?cb=20220525165625",
+    "script": 18,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cb=20220217000003"
+  },
+  {
+    "name": "MistBenders",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaMBbBiYUgl2MRoqRMZe1yGPlRJjupTp1sw&usqp=CAU",
+    "script": 222,
+    "tag": null
+  }
+]

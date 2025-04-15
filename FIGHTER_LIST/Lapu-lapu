@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Courageous Blade",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
+    "script": 93,
+    "tag": null
+  },
+  {
+    "name": "Ancestral Blade",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero372-portrait.png/revision/latest?cb=20220525165115",
+    "script": 94,
+    "tag": null
+  },
+  {
+    "name": "Special Force",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest?cb=20220525165118",
+    "script": 95,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Imperial Champion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero373-portrait.png/revision/latest?cb=20220525165116",
+    "script": 96,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Vulcan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest?cb=20220525165117",
+    "script": 97,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Son of the Wild",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero376-portrait.png/revision/latest?cb=20230317102332",
+    "script": 98,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/S28_Skin_Tag.png/revision/latest/thumbnail-down/width/46/height/20?cb=20230319055041"
+  },
+  {
+    "name": "Adlaw's Chosen",
+    "img": "https://raw.githubusercontent.com/lanz132/NEWIMG/main/lapu%C2%B2collector.jpg",
+    "script": 201,
+    "tag": null
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Demin Hunter",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20220525164426",
+    "script": 34,
+    "tag": null
+  },
+  {
+    "name": "Obsidian Blade",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb=20220525164442",
+    "script": 35,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
+  },
+  {
+    "name": "Lightborn - Striker",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb=20220920090132",
+    "script": 36,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211211021856"
+  },
+  {
+    "name": "Child of the fall",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb=20220525164438",
+    "script": 37,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Romantic Fantasy",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero076-portrait.png/revision/latest?cb=20220525164441",
+    "script": 38,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220301023844"
+  },
+  {
+    "name": "Viscount",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest?cb=20220525164439",
+    "script": 39,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Fiery Inferno",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero073-portrait.png/revision/latest?cb=20220525164437",
+    "script": 40,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/S2_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20210522142201"
+  },
+  {
+    "name": "Obi-wan Kenobi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cb=20220802034527",
+    "script": 41,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20211212004634"
+  },
+  {
+    "name": "Demon's Bane",
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/Alucard%20special.png",
+    "script": 235,
+    "tag": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Desert Scimitar",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Desert_Scimitar.jpg/revision/latest/scale-to-width-down/250?cb=20200912100057",
+    "script": 115,
+    "tag": null
+  },
+  {
+    "name": "Price of sand",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Prince_of_Sand.jpg/revision/latest/scale-to-width-down/250?cb=20200912100112",
+    "script": 116,
+    "tag": null
+  },
+  {
+    "name": "Crescent Scimitar",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Crescent_Scimitar.jpg/revision/latest/scale-to-width-down/250?cb=20211009140050",
+    "script": 117,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Wave Strider",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/Khaled%20epic.png",
+    "script": 215,
+    "tag": null
+  },
+  {
+    "name": "Desert Salamander",
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/khaleed%20s36.png",
+    "script": 236,
+    "tag": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Little Red Hood",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20220525164924",
+    "script": 58,
+    "tag": null
+  },
+  {
+    "name": "Hidden Orchid Butterfly",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest?cb=20220525164934",
+    "script": 59,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Edelweiss",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest?cb=20220525164936",
+    "script": 60,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Lady Zombie",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
+    "script": 61,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Pirate Parrot",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest?cb=20220525164937",
+    "script": 62,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Mecha Maiden",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest?cb=20221103134236",
+    "script": 63,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220113105226"
+  },
+  {
+    "name": "Prismatic Plume",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest?cb=20230805043835",
+    "script": 64,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+  },
+  {
+    "name": "Soul Reaper",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/Ruby%20special.png",
+    "script": 213,
+    "tag": null
+  },
+  {
+    "name": "Crescent Dervish",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Ruby%20golden1.png",
+    "script": 231,
+    "tag": null
+  },
+  {
+    "name": "Neon Edge",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Ruby%20golden2.png",
+    "script": 232,
+    "tag": null
+  }
+]

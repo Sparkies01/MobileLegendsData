@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Lord Lava",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
+    "script": 144,
+    "tag": null
+  },
+  {
+    "name": "Liquid Fire",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest?cb=20220525165749",
+    "script": 145,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Lord of Wrait",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero722-portrait.png/revision/latest?cb=20220525165748",
+    "script": 146,
+    "tag": null
+  },
+  {
+    "name": "Abyssal Repear",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero724-portrait.png/revision/latest?cb=20220525165749",
+    "script": 147,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "General Kai",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
+    "script": 148,
+    "tag": null
+  },
+  {
+    "name": "Sanctified Flame",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
+    "script": 149,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  }
+]

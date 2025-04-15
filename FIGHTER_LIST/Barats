@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dino Rider",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20220525170304",
+    "script": 190,
+    "tag": null
+  },
+  {
+    "name": "Armored Lizard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero992-portrait.png/revision/latest?cb=20220525170307",
+    "script": 191,
+    "tag": null
+  },
+  {
+    "name": "Toy Rex",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero993-portrait.png/revision/latest?cb=20220525170308",
+    "script": 192,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Baratstein",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero994-portrait.png/revision/latest?cb=20220525170309",
+    "script": 193,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "War Chief",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero995-portrait.png/revision/latest?cb=20221111133621",
+    "script": 194,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/S26_Skin_Tag.png/revision/latest/thumbnail-down/width/52/height/20?cb=20230214083556"
+  }
+]

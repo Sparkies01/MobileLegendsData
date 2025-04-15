@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Warrior of Ferocity",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
+    "script": 132,
+    "tag": null
+  },
+  {
+    "name": "Berserker",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest?cb=20220525170454",
+    "script": 133,
+    "tag": null
+  },
+  {
+    "name": "Barren Pioner",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest?cb=20220525170455",
+    "script": 134,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "War Lion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1084-portrait.png/revision/latest?cb=20221216103149",
+    "script": 135,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Ironmane Reaver",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/Aulus%20S34.png",
+    "script": 220,
+    "tag": null
+  }
+]

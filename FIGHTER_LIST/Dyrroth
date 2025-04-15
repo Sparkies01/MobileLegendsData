@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Prince of the Abyss",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20220525170022",
+    "script": 69,
+    "tag": null
+  },
+  {
+    "name": "Ruins Scavenger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
+    "script": 70,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Orochi Chris",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
+    "script": 71,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
+  },
+  {
+    "name": "Scalebore",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
+    "script": 72,
+    "tag": null
+  },
+  {
+    "name": "V.E.N.O.M Cobra",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero855-portrait.png/revision/latest?cb=20220525170036",
+    "script": 73,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/V.E.N.O.M._Skin_Tag.png/revision/latest/thumbnail-down/width/34/height/20?cb=20220822150336"
+  },
+  {
+    "name": "Nakara Flame",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest?cb=20230615180223",
+    "script": 74,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+  },
+  {
+    "name": "Gon Freecss",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Dyrroth%20HxH.png",
+    "script": 222,
+    "tag": null
+  }
+]

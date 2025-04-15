@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Valkyrie",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJGAwW3-W1aAD2seuxp35cPWa195LLG0xJg&usqp=CAU",
+    "script": 182,
+    "tag": null
+  },
+  {
+    "name": "Gladiator",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbdKHPj1qGFzwdrgwDo0utMB1f6SwWV_V7Pw&usqp=CAU",
+    "script": 183,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Christmas Carnival",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG0rczkCm8-5luxDoJpoeRYBRWBmMarP_4Gg&usqp=CAU",
+    "script": 184,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100"
+  },
+  {
+    "name": "Beach Sweetheart",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgLYgy9BHG6d2c_uawESP5puO4e5TfiUjhw&usqp=CAU",
+    "script": 185,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Dragon Hunter",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkL5YKLUAW1SzAEZODcYxsNSdGEgFyMe8Vg&usqp=CAU",
+    "script": 186,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "War Angel",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest?cb=20220525164804",
+    "script": 187,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest?cb=20240815164310"
+  },
+  {
+    "name": "Raven Shogun",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulWrkMBI_E9FlHOb8mHnfc60ggpUBjAzxUA&usqp=CAU",
+    "script": 188,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "S.A.B.E.R. Manhunter",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrh79zrJswf5Os1QuIbXIlmJSgZwUaUv4IQ&usqp=CAU",
+    "script": 189,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Galactic Vanquisher",
+    "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Freya%20legend.png",
+    "script": 202,
+    "tag": null
+  }
+]
