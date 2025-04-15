@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Emotes",
+    "img": "https://github.com/lanz132/NEW_IMG/raw/main/emote.jpg"
+  },
+  {
+    "name": "Recall",
+    "img": "https://github.com/lanz132/NEW_IMG/raw/main/recall.jpg"
+  },
+  {
+    "name": "Respawn",
+    "img": "https://github.com/lanz132/NEW_IMG/raw/main/respawn.jpg"
+  },
+  {
+    "name": "Elimination",
+    "img": "https://github.com/lanz132/NEW_IMG/raw/main/eli.jpg"
+  },
+  {
+    "name": "Notification",
+    "img": "https://github.com/lanz132/NEW_IMG/raw/main/notif.jpg"
+  },
+  {
+    "name": "Trails",
+    "img": "https://github.com/lanz132/NEW_IMG/raw/main/trail.jpg"
+  }
+]
