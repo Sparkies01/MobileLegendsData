@@ -1,0 +1,34 @@
+[
+  {
+    "name": "The Budding Hope",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20220525170535",
+    "script": "48"
+  },
+  {
+    "name": "Springtide",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1122-portrait.png/revision/latest?cb=20220525170547",
+    "script": "49"
+  },
+  {
+    "name": "Fluffy Dream",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest?cb=20220525170548",
+    "script": "50",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Sanrio_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220217000457"
+  },
+  {
+    "name": "Paw Power",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1124-portrait.png/revision/latest?cb=20230212035445",
+    "script": "59",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Yatai Waitress",
+    "img": "https://github.com/Hiro161123/Mage/raw/main/Floryn%20summer.png",
+    "script": "57"
+  },
+  {
+    "name": "Melody of Light",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Floryn%20collector.png",
+    "script": "64"
+  }
+]

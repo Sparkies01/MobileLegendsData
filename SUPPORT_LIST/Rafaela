@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Wings of Holiness",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20220525164605",
+    "script": "26"
+  },
+  {
+    "name": "Biomedic",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero144-portrait.png/revision/latest?cb=20220525164614",
+    "script": "27",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210826073827"
+  },
+  {
+    "name": "Flower Fairy",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest?cb=20220525164613",
+    "script": "28",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "S.A.B.E.R Savior",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero145-portrait.png/revision/latest?cb=20220525164616",
+    "script": "29"
+  },
+  {
+    "name": "Angelic Sonata",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest?cb=20220525164620",
+    "script": "30",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100"
+  },
+  {
+    "name": "Star Chaser",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero146-portrait.png/revision/latest?cb=20220525164619",
+    "script": "31",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/S18_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20210522142218"
+  },
+  {
+    "name": "Seraphic Selfie",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero148-portrait.png/revision/latest?cb=20230316133649",
+    "script": "32",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/AS_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20230319055036"
+  },
+  {
+    "name": "Bloom of Abundance",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Rafaela%20lunarfest.png",
+    "script": "61"
+  }
+]

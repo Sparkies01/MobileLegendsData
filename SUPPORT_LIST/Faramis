@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Soul Blinder",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero761-portrait.png/revision/latest?cb=20220714134614",
+    "script": "41"
+  },
+  {
+    "name": "Dark Necro",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero762-portrait.png/revision/latest?cb=20220628173753",
+    "script": "42"
+  },
+  {
+    "name": "Summer Sparks",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest?cb=20230623125804",
+    "script": "43",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20210728125205"
+  },
+  {
+    "name": "Infernal Magister",
+    "img": "https://raw.githubusercontent.com/lanz132/DISPLAY/main/1.86-0.jpg",
+    "script": "55"
+  }
+]

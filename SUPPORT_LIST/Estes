@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Moon Elf King",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20220525165033",
+    "script": "21"
+  },
+  {
+    "name": "Crow Bishop",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero345-portrait.png/revision/latest?cb=20220525165045",
+    "script": "22",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Galaxy Dominator",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero343-portrait.png/revision/latest?cb=20230212041009",
+    "script": "23",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Rattan Dragon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero346-portrait.png/revision/latest?cb=20220525165046",
+    "script": "24"
+  },
+  {
+    "name": "Blacklist International",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb=20220804115327",
+    "script": "25",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Arcane Magistrate",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Estes%20special%20new.png",
+    "script": "60"
+  }
+]

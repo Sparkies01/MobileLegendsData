@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Nazar King",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Nazar_King.jpg/revision/latest/scale-to-width-down/250?cb=20210521134744",
+    "script": "33"
+  },
+  {
+    "name": "Kaminari",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Kaminari.jpg/revision/latest/scale-to-width-down/250?cb=20211207065155",
+    "script": "34",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Horror Whiplash",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Horror_Whiplash.jpg/revision/latest/scale-to-width-down/250?cb=20211207065147",
+    "script": "35"
+  },
+  {
+    "name": "Skyblocker",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Skyblocker.jpg/revision/latest/scale-to-width-down/250?cb=20211207065208",
+    "script": "36",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Crow Magician",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Crow_Magician.jpg/revision/latest/scale-to-width-down/250?cb=20211207065139",
+    "script": "37",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/S20_Skin_Tag.png/revision/latest/thumbnail-down/width/38/height/20?cb=20211120133444"
+  },
+  {
+    "name": "Inferno Taskmaster",
+    "img": "https://github.com/lanz132/Img/raw/main/kaja.jpg",
+    "script": "52"
+  }
+]
