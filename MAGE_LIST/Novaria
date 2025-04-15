@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Star Rebel",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20230224151429",
+    "script": "162"
+  },
+  {
+    "name": "Sugar Glaze",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/novaria91.jpg",
+    "script": "163"
+  },
+  {
+    "name": "Dragonsworn",
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/novaria%20collector.png",
+    "script": "181"
+  }
+]

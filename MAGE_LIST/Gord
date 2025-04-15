@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Professor of the Mystics",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero231-portrait.png/revision/latest?cb=20220525164812",
+    "script": "113"
+  },
+  {
+    "name": "Christmas Carnival",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero233-portrait.png/revision/latest?cb=20220525164817",
+    "script": "114",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100"
+  },
+  {
+    "name": "No.1 Controller",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero235-portrait.png/revision/latest?cb=20220525164819",
+    "script": "115",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20211211020157"
+  },
+  {
+    "name": "Conqueror",
+    "img": "https://raw.githubusercontent.com/lanz132/NEWIMG/main/gordlegend.jpg",
+    "script": "116",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
+  },
+  {
+    "name": "New Baron",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero236-portrait.png/revision/latest?cb=20220525164820",
+    "script": "117",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/S21_Skin_Tag.png/revision/latest?cb=20211201153812"
+  },
+  {
+    "name": "Cyber Hacker",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/gord_aug.jpg",
+    "script": "174",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216162258"
+  },
+  {
+    "name": "Imperator Vitalis",
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/gord%20starlight.png",
+    "script": "183"
+  }
+]

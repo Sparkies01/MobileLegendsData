@@ -1,0 +1,30 @@
+[
+  {
+    "name": "The King of Swarms",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero501-portrait.png/revision/latest?cb=20220525165318",
+    "script": "83"
+  },
+  {
+    "name": "Extraterrestrial",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero505-portrait.png/revision/latest?cb=20220525165329",
+    "script": "84",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Cancer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "script": "85",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+  },
+  {
+    "name": "Bone Flamen",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20220525165326",
+    "script": "86",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20220216162258"
+  },
+  {
+    "name": "Death's Shadow",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/Zhask%20starlight.png",
+    "script": "177"
+  }
+]

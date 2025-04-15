@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Lightning Weaver",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png/revision/latest?cb=20240123234152",
+    "script": "143"
+  },
+  {
+    "name": "Christmas Carnival",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest?cb=20220525164632",
+    "script": "144"
+  },
+  {
+    "name": "Cosmic Voyage",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero157-portrait.png/revision/latest?cb=20220724063929",
+    "script": "148"
+  },
+  {
+    "name": "Atomic Pop",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest?cb=20230316133651",
+    "script": "149"
+  }
+]

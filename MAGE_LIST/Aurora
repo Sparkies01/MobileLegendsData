@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Frost Oracle",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Frost_Oracle.jpg/revision/latest/scale-to-width-down/250?cb=20211231054901",
+    "script": "107"
+  },
+  {
+    "name": "Heartbreak Empress",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Heartbreak_Empress.jpg/revision/latest/scale-to-width-down/250?cb=20211231054919",
+    "script": "108",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Foxy Lady",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Foxy_Lady_%28rework%29.jpg/revision/latest/scale-to-width-down/250?cb=20220213165714",
+    "script": "109",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20220113105315"
+  },
+  {
+    "name": "Kula Diamond",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Kula_Diamond.jpg/revision/latest/scale-to-width-down/250?cb=20210528141510",
+    "script": "110",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
+  },
+  {
+    "name": "Aquarius",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Aquarius.jpg/revision/latest/scale-to-width-down/250?cb=20211231054836",
+    "script": "111",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+  },
+  {
+    "name": "Veil of the Celestials",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/aurora%208-2-24.jpg",
+    "script": "173"
+  }
+]

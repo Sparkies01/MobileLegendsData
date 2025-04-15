@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Little Wizard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Little_Witch.jpg/revision/latest/scale-to-width-down/250?cb=20211207064453",
+    "script": "58"
+  },
+  {
+    "name": "Star Student",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Star_Student.jpg/revision/latest/scale-to-width-down/250?cb=20211207064506",
+    "script": "59",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Haunted Doll",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Haunted_Doll.jpg/revision/latest/scale-to-width-down/250?cb=20211207064445",
+    "script": "60",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20221111140633"
+  },
+  {
+    "name": "Future Star",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Future_Star.jpg/revision/latest/scale-to-width-down/250?cb=20211207064437",
+    "script": "61",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Neobeast",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76lDAh12d4y4B-VMxTzCjGTu30PU1_MG_cQ&usqp=CAU",
+    "script": "134"
+  },
+  {
+    "name": "Magitech Arsenal",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/lyl.jpg",
+    "script": "167"
+  }
+]

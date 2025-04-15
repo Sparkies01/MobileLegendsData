@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Shimmer of Hope",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20220714134445",
+    "script": "45"
+  },
+  {
+    "name": "Lucent Beacon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest?cb=20220714134500",
+    "script": "46"
+  },
+  {
+    "name": "Cursed Shackle",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest?cb=20220604034152",
+    "script": "47",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/S12_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20210522142212"
+  },
+  {
+    "name": "Sanguine Rose",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero383-portrait.png/revision/latest?cb=20220714134505",
+    "script": "48",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20220216162258"
+  },
+  {
+    "name": "Circus Magician",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest?cb=20221103134615",
+    "script": "49",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "The Sun Empress",
+    "img": "https://github.com/lanz132/Img/raw/main/vexana.jpeg",
+    "script": "139",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+  },
+  {
+    "name": "Twisted Fairy Tail",
+    "img": "https://raw.githubusercontent.com/Hiro161123/Mage/main/Vexana%20zenith.png",
+    "script": "164"
+  }
+]

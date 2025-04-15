@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Time Traveler",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero731-portrait.png/revision/latest?cb=20220525165751",
+    "script": "62"
+  },
+  {
+    "name": "Stardust",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero733-portrait.png/revision/latest?cb=20220525165755",
+    "script": "63",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "EVOS Legends",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest?cb=20220525165758",
+    "script": "64",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Lightborn - Inspirer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero735-portrait.png/revision/latest?cb=20220525165757",
+    "script": "65",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211211021856"
+  },
+  {
+    "name": "Fashion Expert",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero734-portrait.png/revision/latest?cb=20220525165756",
+    "script": "66",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/515_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064424"
+  },
+  {
+    "name": "Psychic",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest?cb=20230212035440",
+    "script": "67",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Christmas Carnival",
+    "img": "https://raw.githubusercontent.com/kinAgonace/Img/main/IMG_20231224_103357.jpg",
+    "script": "142",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100"
+  },
+  {
+    "name": "Killua Zoldyck",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Harith%20HxH.png",
+    "script": "155"
+  }
+]

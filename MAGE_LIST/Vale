@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Windtalker",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero661-portrait.png/revision/latest?cb=20220525165643",
+    "script": "35"
+  },
+  {
+    "name": "Cerulean Winds",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest?cb=20220525165646",
+    "script": "36"
+  },
+  {
+    "name": "Kannagi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest?cb=20220525165648",
+    "script": "37",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Blizzard Storm",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest?cb=20220525165647",
+    "script": "38",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Dawning_Stars_Skin_Tag.png/revision/latest/thumbnail-down/width/69/height/20?cb=20230319055038"
+  },
+  {
+    "name": "Soaring Devata",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest?cb=20220525165649",
+    "script": "39",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Supernal Tempest",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest?cb=20220525165650",
+    "script": "40",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+  },
+  {
+    "name": "Keeper of the Winds",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest?cb=20230317102031",
+    "script": "41",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Concerto of Light",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Vale%20anualstar.png",
+    "script": "178"
+  },
+  {
+    "name": "Gaara",
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/vale%20x%20garaa.png",
+    "script": "182"
+  }
+]
