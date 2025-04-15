@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bloody Beast",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20220525164249",
+    "script": 69,
+    "tag": null
+  },
+  {
+    "name": "Ghoul's Fury",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero023-portrait.png/revision/latest?cb=20220525164302",
+    "script": 70,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Savage Hunter",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest?cb=20220525164306",
+    "script": 71,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Savage Pointguard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero026-portrait.png/revision/latest?cb=20220525164313",
+    "script": 72,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210503053112"
+  },
+  {
+    "name": "God of Mountains",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb=20220525164309",
+    "script": 73,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210503053217"
+  },
+  {
+    "name": "Bioroid",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest?cb=20220525164316",
+    "script": 74,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210503053342"
+  },
+  {
+    "name": "Infernal Warlord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721",
+    "script": 75,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210503053447"
+  },
+  {
+    "name": "Razor Edge",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Balmond%20special%20razor.png",
+    "script": 119,
+    "tag": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dino Rider",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20220525170304",
+    "script": 83,
+    "tag": null
+  },
+  {
+    "name": "Armored Lizard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero992-portrait.png/revision/latest?cb=20220525170307",
+    "script": 84,
+    "tag": null
+  },
+  {
+    "name": "Toy Rex",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero993-portrait.png/revision/latest?cb=20220525170308",
+    "script": 85,
+    "tag": "Elite"
+  },
+  {
+    "name": "Baratstein",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero994-portrait.png/revision/latest?cb=20220525170309",
+    "script": 86,
+    "tag": "Halloween"
+  },
+  {
+    "name": "War Chief",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero995-portrait.png/revision/latest?cb=20221111133621",
+    "script": 87,
+    "tag": null
+  },
+  {
+    "name": "Sunken Predator",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Barats%20epic.png",
+    "script": 120,
+    "tag": null
+  }
+]

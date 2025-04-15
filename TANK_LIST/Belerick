@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Guard of Nature",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMNur7PNGzzo3XKJ0P5a9PRJR-ApL9QQh8Q&usqp=CAU",
+    "script": 26,
+    "tag": null
+  },
+  {
+    "name": "Tiger's Claw",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Tiger%27s_Claw_%28rework%29.jpg/revision/latest/scale-to-width-down/250?cb=20210128181344",
+    "script": 27,
+    "tag": null
+  },
+  {
+    "name": "Torch Guardian",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXamCsOjbpREfqYfbjBy4NObP2GbfqPPECeA&usqp=CAU",
+    "script": 28,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "The Deep One",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vJ7iYrLA0wjC_6G_m-WGrc3jq-uc_6Mjlg&usqp=CAU",
+    "script": 29,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Emerald Guardian",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6taUxGZu2wlSgBnKfGMCMN7OeMXjD2VI7AQ&usqp=CAU",
+    "script": 30,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Arbiter of Stars",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero706-portrait.png/revision/latest?cb=20250307123907",
+    "script": 124,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216162258"
+  }
+]

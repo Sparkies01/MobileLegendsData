@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rogue Appraiser",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20220630130119",
+    "script": 94,
+    "tag": null
+  },
+  {
+    "name": "Regal Renegade",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero1172-portrait.png/revision/latest?cb=20220807093441",
+    "script": 95,
+    "tag": null
+  },
+  {
+    "name": "Neobeast",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILVWpFTqEbWRFhLe-kt6pPLvZ05RMl_HUUIGrLL-PKTUfy78wlvbz3ZMU-Kbxa3j5u0Eupo688DiwXt5xKAOjBm-g_O6ogsuhVIjxLPel2SxWxIK7G68-QukHJe-5o1-TypuR5DBtZ4xSquiTq5O01I6IPlDkrmu6tc3h3j-yO7DqGUuEir2KYAHrfC5q/s3124/fredrinn-skin-neobeast.jpg",
+    "script": 103,
+    "tag": null
+  },
+  {
+    "name": "Sparkle",
+    "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Fredrin%20sparkle.png",
+    "script": 108,
+    "tag": null
+  }
+]

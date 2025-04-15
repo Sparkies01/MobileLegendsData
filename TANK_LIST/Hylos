@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Grand Warden",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero491-portrait.png/revision/latest?cb=20220525165306",
+    "script": 38,
+    "tag": null
+  },
+  {
+    "name": "Jungle Watcher",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero494-portrait.png/revision/latest?cb=20220525165316",
+    "script": 39,
+    "tag": null
+  },
+  {
+    "name": "Phantom Seer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero493-portrait.png/revision/latest?cb=20220525165315",
+    "script": 40,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Abyssal Shaman",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero492-portrait.png/revision/latest?cb=20220525165314",
+    "script": 41,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Iron Steed",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero495-portrait.png/revision/latest?cb=20220525165317",
+    "script": 42,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Blood Marauder",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Hylos%20elite%202024.png",
+    "script": 116,
+    "tag": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Steel Elf",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAHWI1e0lUF9viPo1CuzJSIMPW-U6ttJ8Vxw&usqp=CAU",
+    "script": 64,
+    "tag": null
+  },
+  {
+    "name": "Genki Slam",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeNKn2vANCgDXTE1qtnNrdFbnuXD-r0j9lZQ&usqp=CAU",
+    "script": 65,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Lion Dance",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChKL1wV9k7amm2wlULdGlbFZEW_SBKOzzHw&usqp=CAU",
+    "script": 66,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20220113105315"
+  },
+  {
+    "name": "Impish Trickster",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero203-portrait.png/revision/latest?cb=20220525164742",
+    "script": 67,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20221111140633"
+  },
+  {
+    "name": "Soldier in Training",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero202-portrait.png/revision/latest?cb=20220525164741",
+    "script": 68,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Starwatcher",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Lolita%20rising.png",
+    "script": 117,
+    "tag": null
+  }
+]

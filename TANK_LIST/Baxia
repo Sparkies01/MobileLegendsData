@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mystic Tortoise",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAuKFzOY2Eg8spgzGZm-IMoF9zMAASv3FNqg&usqp=CAU",
+    "script": 60,
+    "tag": null
+  },
+  {
+    "name": "Badass Roller",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbxHJ0N_gBL6edWWa_qxgZmAZ8STMOoF37lw&usqp=CAU",
+    "script": 61,
+    "tag": null
+  },
+  {
+    "name": "Wild Totem",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUnv79npTQ1_1r3xSJrHZNiO4StnhaRjYR4w&usqp=CAU",
+    "script": 62,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Ba-tender",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTUW5nW6zoGybC5W1sITq6ul0D7c5w9l8k7A&usqp=CAU",
+    "script": 63,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Black Tortoise",
+    "img": "https://github.com/lanz132/Img/raw/main/baxia.jpg",
+    "script": 104,
+    "tag": "https://github.com/lanz132/Img/raw/main/s30.png"
+  },
+  {
+    "name": "Dauntless",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Baxia%20special%20dountless.png",
+    "script": 120,
+    "tag": null
+  }
+]

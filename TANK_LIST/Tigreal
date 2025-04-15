@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Warrior Of Dawn",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20220525164412",
+    "script": 76,
+    "tag": null
+  },
+  {
+    "name": "Lightborn Defender",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423",
+    "script": 77,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211211021856"
+  },
+  {
+    "name": "Dark Guardian",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuASVXPj5a0yhNKL_dPUTV7nezUT95si06BQ&usqp=CAU",
+    "script": 78,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Fallen Guard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero063-portrait.png/revision/latest?cb=20220525164421",
+    "script": 79,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Wyrmslayer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero064-portrait.png/revision/latest?cb=20220525164422",
+    "script": 80,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/S10_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210522142210"
+  },
+  {
+    "name": "Gold Baron",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest?cb=20220525164424",
+    "script": 81,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Galactic Marshal",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero068-portrait.png/revision/latest?cb=20220802033731",
+    "script": 82,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Pasha of Justice",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Tigreal%20special%202024.png",
+    "script": 118,
+    "tag": null
+  }
+]

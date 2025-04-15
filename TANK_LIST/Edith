@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ancient Guard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1111-portrait.png/revision/latest?cb=20220525171947",
+    "script": 91,
+    "tag": null
+  },
+  {
+    "name": "Celestial Safeguard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest?cb=20220525170534",
+    "script": 92,
+    "tag": null
+  },
+  {
+    "name": "Ancient Warden",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1113-portrait.png/revision/latest?cb=20230409114636",
+    "script": 93,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Beyond the Clouds",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest?cb=20230805043923",
+    "script": 102,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Clouds_Skin_Tag.png/revision/latest?cb=20230915123926"
+  },
+  {
+    "name": "Red Bastion",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/edi.jpg",
+    "script": 109,
+    "tag": null
+  },
+  {
+    "name": "Presmatic Sentinel",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Edith%20mpl.png",
+    "script": 123,
+    "tag": null
+  }
+]

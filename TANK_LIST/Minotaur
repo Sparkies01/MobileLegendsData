@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Son of Minos",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png/revision/latest?cb=20220525164730",
+    "script": 56,
+    "tag": null
+  },
+  {
+    "name": "Sacred Hammer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero194-portrait.png/revision/latest?cb=20220525164735",
+    "script": 57,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Orbiter",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero193-portrait.png/revision/latest?cb=20220525164734",
+    "script": 58,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/S4_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210522142203"
+  },
+  {
+    "name": "Taurus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero195-portrait.png/revision/latest?cb=20230316133655",
+    "script": 59,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+  },
+  {
+    "name": "Dreadnought",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/minotaur.jpg",
+    "script": 106,
+    "tag": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Mustang",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero321-portrait.png/revision/latest?cb=20220525165007",
+    "script": 10,
+    "tag": null
+  },
+  {
+    "name": "Jeepney Racer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero324-portrait.png/revision/latest?cb=20220525165016",
+    "script": 11,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Death Ride",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero326-portrait.png/revision/latest?cb=20220525165018",
+    "script": 12,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "S.A.B.E.R. Automata",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero323-portrait.png/revision/latest?cb=20220525165012",
+    "script": 13,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Wreck King",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero325-portrait.png/revision/latest?cb=20220525165016",
+    "script": 14,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Optimus Prime",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png/revision/latest?cb=20220525165018",
+    "script": 15,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cb=20220217000003"
+  },
+  {
+    "name": "Sovereign of Realms",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Johnson%20legend.png",
+    "script": 121,
+    "tag": null
+  }
+]

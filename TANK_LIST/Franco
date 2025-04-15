@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Frozen Warrior",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101-portrait.png/revision/latest?cb=20220525164519",
+    "script": 1,
+    "tag": null
+  },
+  {
+    "name": "Locomotive",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero104-portrait.png/revision/latest?cb=20220525164525",
+    "script": 2,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/S9_Skin_Tag.png/revision/latest?cb=20210522142209"
+  },
+  {
+    "name": "Apocalypse",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero103-portrait.png/revision/latest?cb=20220525164524",
+    "script": 3,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Wheatfield Nightmare",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero105-portrait.png/revision/latest?cb=20220525164526",
+    "script": 4,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20221111140633"
+  },
+  {
+    "name": "Masterchef",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero102-portrait.png/revision/latest?cb=20220525164523",
+    "script": 5,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Blazing Axe",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero107-portrait.png/revision/latest?cb=20220525164528",
+    "script": 6,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220714101551"
+  },
+  {
+    "name": "Valhalla Ruler",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero106-portrait.png/revision/latest?cb=20220525164527",
+    "script": 7,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Bone Crusher",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero108-portrait.png/revision/latest?cb=20220525164529",
+    "script": 8,
+    "tag": null
+  },
+  {
+    "name": "King of Hell",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero109-portrait.png/revision/latest?cb=20221216103123",
+    "script": 9,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
+  },
+  {
+    "name": "Quantum Vanguard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero101010-portrait.png/revision/latest?cb=20240811041412",
+    "script": 112,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210826073827"
+  }
+]

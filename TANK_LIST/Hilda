@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Power of Megalith",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20220525165048",
+    "script": 48,
+    "tag": null
+  },
+  {
+    "name": "Sacred Guard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero354-portrait.png/revision/latest?cb=20220525165053",
+    "script": 49,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Bass Craze",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero356-portrait.png/revision/latest?cb=20220525165055",
+    "script": 50,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Aries",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest?cb=20230317100645",
+    "script": 51,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+  },
+  {
+    "name": "Flower of the Wastes",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero353-portrait.png/revision/latest?cb=20220525165052",
+    "script": 52,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/S5_Skin_Tag.png/revision/latest?cb=20210522142205"
+  }
+]
