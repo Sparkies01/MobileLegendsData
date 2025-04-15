@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Jetpack Rebel",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero711-portrait.png/revision/latest?cb=20220525165736",
+    "script": "43"
+  },
+  {
+    "name": "Bio Frontier",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero713-portrait.png/revision/latest?cb=20220525165740",
+    "script": "44",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Charge Leader",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero715-portrait.png/revision/latest?cb=20220525165742",
+    "script": "45",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Frost Wing",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest?cb=20220525165743",
+    "script": "46",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Dragon_Tamer_Skin_Tag.png/revision/latest/thumbnail-down/width/48/height/20?cb=20220714101554"
+  },
+  {
+    "name": "Astrocat",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest?cb=20220525165741",
+    "script": "47",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "First Order Jet Trooper",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest?cb=20220628180011",
+    "script": "48",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20211212004634"
+  },
+  {
+    "name": "Rising Nova",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/kimmy.jpg",
+    "script": "152"
+  },
+  {
+    "name": "High Seas Cadet",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Kimmy%20elite%20new.png",
+    "script": "175"
+  }
+]

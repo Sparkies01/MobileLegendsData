@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Dire Wolf Hunter",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20220525165125",
+    "script": "109"
+  },
+  {
+    "name": "Dark Gent",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest?cb=20220525165131",
+    "script": "110"
+  },
+  {
+    "name": "Anubis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero394-portrait.png/revision/latest?cb=20220525165133",
+    "script": "111",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Dr. Beast",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest?cb=20220920092342",
+    "script": "112",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Cyborg Werewolf",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero396-portrait.png/revision/latest?cb=20220525165135",
+    "script": "113",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Phantom Ranger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero397-portrait.png/revision/latest?cb=20220525165136",
+    "script": "114",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/M3_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20211201154155"
+  },
+  {
+    "name": "Fiend Haunter",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest?cb=20220525165137",
+    "script": "115",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20211201153613"
+  },
+  {
+    "name": "Grimlock",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest?cb=20220525165139",
+    "script": "116",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cb=20220217000003"
+  },
+  {
+    "name": "Phantom Pirate",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest?cb=20230317100649",
+    "script": "117",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  }
+]
