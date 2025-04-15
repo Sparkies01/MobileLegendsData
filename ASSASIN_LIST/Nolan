@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Cosmic Wayfinder",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb=20230826055051",
+    "script": 101,
+    "tag": null
+  },
+  {
+    "name": "Voidwalker",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest/scale-to-width-down/250?cb=20230925013257",
+    "script": 102,
+    "tag": null
+  },
+  {
+    "name": "Fashion Mogul",
+    "img": "https://github.com/Hiro161123/Assassin/raw/main/Nolan%20starlight.png",
+    "script": 108,
+    "tag": null
+  },
+  {
+    "name": "The Navigator",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Nolan%2011.11.png",
+    "script": 114,
+    "tag": null
+  }
+]

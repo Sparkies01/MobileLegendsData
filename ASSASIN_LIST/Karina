@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Shadow Blade",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20220525164445",
+    "script": 47,
+    "tag": null
+  },
+  {
+    "name": "Spider Lily",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb=20220525164458",
+    "script": 48,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Blood Moon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero089-portrait.png/revision/latest?cb=20220525164502",
+    "script": 49,
+    "tag": null
+  },
+  {
+    "name": "Leona",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
+    "script": 50,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
+  },
+  {
+    "name": "Christmas Carnival",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest?cb=20220525164456",
+    "script": 51,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100"
+  },
+  {
+    "name": "Doom Duelist",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
+    "script": 52,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Gemini - Halo",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb=20230514163400",
+    "script": 53,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Crimson Shadow",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20220525170632",
+    "script": 64,
+    "tag": null
+  },
+  {
+    "name": "Biological Weapon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest?cb=20220525164756",
+    "script": 65,
+    "tag": null
+  },
+  {
+    "name": "Experiment 21",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb=20220525164754",
+    "script": 66,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20220113105315"
+  },
+  {
+    "name": "Future Enforcer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest?cb=20220525164752",
+    "script": 67,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Sushi Master",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest?cb=20220628175954",
+    "script": 68,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Shadow of Obscurity",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+    "script": 69,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Shura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
+    "script": 70,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Double_11_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20220217000032"
+  },
+  {
+    "name": "Techie Ninja",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest?cb=20221118130654",
+    "script": 71,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Exorcist",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/hayaexorcist.jpg",
+    "script": 107,
+    "tag": null
+  },
+  {
+    "name": "Kakashi Hatake",
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/hayabusa%20x%20kakashe.jpg",
+    "script": 122,
+    "tag": null
+  }
+]

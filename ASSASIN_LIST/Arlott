@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Lone Lancer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20230208125736",
+    "script": 96,
+    "tag": null
+  },
+  {
+    "name": "Wandering Lance",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest?cb=20230208125754",
+    "script": 97,
+    "tag": null
+  },
+  {
+    "name": "Fury of the Deep",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/arlot.jpg",
+    "script": 100,
+    "tag": null
+  },
+  {
+    "name": "Aeon of Twilight",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Arlot%20collector.png",
+    "script": 113,
+    "tag": null
+  }
+]

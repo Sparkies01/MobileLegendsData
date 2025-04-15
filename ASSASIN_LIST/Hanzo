@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Akuma Ninja",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20220525165722",
+    "script": 81,
+    "tag": null
+  },
+  {
+    "name": "Undead King",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest?cb=20220525165726",
+    "script": 82,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Insidious Tutor",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
+    "script": 83,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "The Pale Phantom",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero692-portrait.png/revision/latest?cb=20220525165725",
+    "script": 84,
+    "tag": null
+  },
+  {
+    "name": "Soulfire Netherlord",
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/hanzo%20collector.png",
+    "script": 124,
+    "tag": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Shadowbringer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20220525165330",
+    "script": 60,
+    "tag": null
+  },
+  {
+    "name": "Ice Skythe",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest?cb=20220525165334",
+    "script": 61,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Evolved Predator",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest?cb=20220525165335",
+    "script": 62,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Scorpio",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest?cb=20220525165336",
+    "script": 63,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+  },
+  {
+    "name": "Dream Prowler",
+    "img": "https://github.com/Hiro161123/Assassin/raw/main/Helcurt%20starlight.png",
+    "script": 109,
+    "tag": null
+  }
+]

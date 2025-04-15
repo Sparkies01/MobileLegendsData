@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Duke of Shards",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725",
+    "script": 90,
+    "tag": null
+  },
+  {
+    "name": "Night's Edge",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest?cb=20220525170510",
+    "script": 91,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Noble Crest",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest?cb=20220628175950",
+    "script": 92,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Cyber Assassin",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb=20221216103151",
+    "script": 93,
+    "tag": null
+  },
+  {
+    "name": "Vessel of Deceit",
+    "img": "https://github.com/Hiro161123/Apps/raw/main/Aamon%20soul.png",
+    "script": 111,
+    "tag": null
+  }
+]

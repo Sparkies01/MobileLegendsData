@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Abyssal Witch",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20220525165556",
+    "script": 31,
+    "tag": null
+  },
+  {
+    "name": "Double Identify",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest?cb=20220525165606",
+    "script": 32,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Virus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest?cb=20220525165604",
+    "script": 33,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Thunder Flash",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest?cb=20220525165607",
+    "script": 34,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Gemini - Shadow",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb=20230514163409",
+    "script": 35,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+  },
+  {
+    "name": "S.T.U.N Selena",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest?cb=20220525165609",
+    "script": 36,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235941"
+  },
+  {
+    "name": "Lady Vengeance",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cb=20220525165610",
+    "script": 37,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220217000011"
+  },
+  {
+    "name": "Gothic Curse",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest?cb=20220525165608",
+    "script": 38,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Wraith Butterfly",
+    "img": "https://github.com/lanz132/Img/raw/main/selena91.jpg",
+    "script": 105,
+    "tag": null
+  },
+  {
+    "name": "Curse of Cinders",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Selena%20zenith.png",
+    "script": 117,
+    "tag": null
+  }
+]

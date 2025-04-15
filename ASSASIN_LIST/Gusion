@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Holy Blade",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20220909095407",
+    "script": 1,
+    "tag": null
+  },
+  {
+    "name": "Moonlight Sonata",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest?cb=20220909095408",
+    "script": 2,
+    "tag": null
+  },
+  {
+    "name": "Cyber Ops",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest?cb=20220525165446",
+    "script": 3,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "V.E.N.O.M Emperor Scorpion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest?cb=20220525165448",
+    "script": 4,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/V.E.N.O.M._Skin_Tag.png/revision/latest/thumbnail-down/width/34/height/20?cb=20220822150336"
+  },
+  {
+    "name": "Dangerous Liaison",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest?cb=20220915121902",
+    "script": 5,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220301023844"
+  },
+  {
+    "name": "K'",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb=20220525165449",
+    "script": 6,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
+  },
+  {
+    "name": "Cosmic Gleam",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
+    "script": 7,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
+  },
+  {
+    "name": "Night Owl",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
+    "script": 8,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+  },
+  {
+    "name": "Soul Revelation",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
+    "script": 9,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Dimensions Walker",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
+    "script": 10,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Double_11_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20220217000032"
+  },
+  {
+    "name": "Desert Spider",
+    "img": "https://github.com/Hiro161123/Apps/raw/main/Gusion%20star%202024.png",
+    "script": 110,
+    "tag": null
+  }
+]

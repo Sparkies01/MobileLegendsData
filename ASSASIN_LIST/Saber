@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Wandering Sword",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest?cb=20220525164318",
+    "script": 72,
+    "tag": null
+  },
+  {
+    "name": "Force Warrior",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero033-portrait.png/revision/latest?cb=20220525164328",
+    "script": 73,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "S.A.B.E.R Regulator",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero036-portrait.png/revision/latest?cb=20220525164332",
+    "script": 74,
+    "tag": null
+  },
+  {
+    "name": "Onimaru",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Saber%20luckybox.png",
+    "script": 75,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Codename - Storm",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
+    "script": 76,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
+  },
+  {
+    "name": "Goldem Flash",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero032-portrait.png/revision/latest?cb=20220525164327",
+    "script": 77,
+    "tag": null
+  },
+  {
+    "name": "Full Metal Ronin",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest?cb=20220525164330",
+    "script": 78,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Silver Edge",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero038-portrait.png/revision/latest?cb=20220525164337",
+    "script": 79,
+    "tag": null
+  },
+  {
+    "name": "Iron Hound",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero039-portrait.png/revision/latest?cb=20221216103121",
+    "script": 80,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  }
+]

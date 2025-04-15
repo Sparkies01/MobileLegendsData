@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Blade of Roses",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20220525165242",
+    "script": 22,
+    "tag": null
+  },
+  {
+    "name": "Masked Knight",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest?cb=20220525165245",
+    "script": 777,
+    "tag": null
+  },
+  {
+    "name": "Christmas Carnival",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb=20220525165246",
+    "script": 23,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100"
+  },
+  {
+    "name": "Dark Earl",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest?cb=20220525165248",
+    "script": 24,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Floral Knight",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest?cb=20220525165250",
+    "script": 25,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Royal Matador",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb=20220525165247",
+    "script": 26,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Swordmaster",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
+    "script": 27,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Dawning_Stars_Skin_Tag.png/revision/latest/thumbnail-down/width/69/height/20?cb=20230319055038"
+  },
+  {
+    "name": "Pisces",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
+    "script": 28,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+  },
+  {
+    "name": "Bren Esports",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
+    "script": 29,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Empyrean Flame",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb=20220804115345",
+    "script": 30,
+    "tag": null
+  },
+  {
+    "name": "Marques of Blades",
+    "img": "https://raw.githubusercontent.com/lanz132/Img/main/lance.webp",
+    "script": 98,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+  },
+  {
+    "name": "Guardian of the Shrine",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/lancelot%208-2-24.jpg",
+    "script": 112,
+    "tag": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Shadow Ranger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Shadow_Ranger.jpg/revision/latest/scale-to-width-down/250?cb=20210616160805",
+    "script": 85,
+    "tag": null
+  },
+  {
+    "name": "Honor Blade",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Honor_Blade.jpg/revision/latest/scale-to-width-down/250?cb=20210616160716",
+    "script": 86,
+    "tag": null
+  },
+  {
+    "name": "Street Blow",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Street_Blow.jpg/revision/latest/scale-to-width-down/250?cb=20220108154346",
+    "script": 87,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Death Oath",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Death_Oath.jpg/revision/latest/scale-to-width-down/250?cb=20211215022129",
+    "script": 88,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+  },
+  {
+    "name": "Moonblade",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Moonblade.jpg/revision/latest/scale-to-width-down/250?cb=20220505121448",
+    "script": 89,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Panigale V4S Rider",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb=20230917045324",
+    "script": 99,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Ducati_Skin_Tag.png/revision/latest/thumbnail-down/width/77/height/20?cb=20230915123933"
+  },
+  {
+    "name": "Quantum Edge",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/ben.jpg",
+    "script": 106,
+    "tag": null
+  },
+  {
+    "name": "Phantom Mirage",
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/benedetta%20covenant.png",
+    "script": 118,
+    "tag": null
+  }
+]

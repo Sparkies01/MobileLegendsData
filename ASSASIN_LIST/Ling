@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Cyan Finch",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20220525171417",
+    "script": 39,
+    "tag": null
+  },
+  {
+    "name": "Night Shade",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
+    "script": 40,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+  },
+  {
+    "name": "Street Punk",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
+    "script": 41,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+  },
+  {
+    "name": "Fiery Dance",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+    "script": 42,
+    "tag": null
+  },
+  {
+    "name": "Cosmo Guard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
+    "script": 43,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+  },
+  {
+    "name": "Serene Plume",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
+    "script": 44,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+  },
+  {
+    "name": "M-World Ling",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest?cb=20220525170021",
+    "script": 45,
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/M-World_Skin_Tag.png/revision/latest/thumbnail-down/width/53/height/20?cb=20220501041401"
+  },
+  {
+    "name": "Lord Shen",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb=20220804115337",
+    "script": 46,
+    "tag": null
+  },
+  {
+    "name": "Neobeast",
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/Ling%20neobeast.png",
+    "script": 120,
+    "tag": null
+  }
+]
