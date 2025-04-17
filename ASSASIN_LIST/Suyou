@@ -2,12 +2,14 @@
   {
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb=20241021140902",
     "name": "Mask of the Immortal",
-    "script": 121
+    "script": 121,
+    "tag":""
   },
   {
     "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/suyou%20x%20sasuke.png",
     "name": "Sasuke Uchiha",
-    "script": 123
+    "script": 123,
+   "tag":""
   },
   {
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxz7pDQyeQaJIBe33r4B5n6XtUCqlc8JcnDKp2gV17iSHGmDlE2DEnKU&s=10",
