@@ -1,28 +1,151 @@
 [
-    {
-        "img": "https://github.com/lanz132/BANNER/raw/main/naruto.jpg",
-        "name": "Naruto Uzumaki"
-    },
-    {
-        "img": "https://github.com/lanz132/BANNER/raw/main/sasuke.jpg",
-        "name": "Sasuke Uchiha"
-    },
-    {
-        "img": "https://github.com/lanz132/BANNER/raw/main/kakashe.jpg",
-        "name": "Kakashi Hatake"
-    },
-    {
-        "img": "https://github.com/lanz132/BANNER/raw/main/sakura.jpg",
-        "name": "Kalea Sakura"
-    },
-    {
-        "img": "https://github.com/lanz132/BANNER/raw/main/gaara.jpg",
-        "name": "Gaara"
-    },
-    {
-        "img": "ing1",
-        "skin": "img1",
-        "tag": "tag1",
-        "script": "1"
-    }
+  {
+    "hero": "Gusion",
+    "head": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20241021142006",
+    "skins": [
+      {
+        "name": "Blade Dancer",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20220525164654",
+        "script": 11
+      },
+      {
+        "name": "Punk Princess",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest?cb=20220525164703",
+        "script": 12
+      },
+      {
+        "name": "Royal Cavalry",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest?cb=20220525164705",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603",
+        "script": 13
+      },
+      {
+        "name": "Christmas Carnival",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100",
+        "script": 14
+      },
+      {
+        "name": "Campus Youth",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest?cb=20220525164702",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230",
+        "script": 15
+      },
+      {
+        "name": "Lifeguard",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20210728125205",
+        "script": 16
+      },
+      {
+        "name": "Skylark",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb=20220525164704",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20220216162258",
+        "script": 17
+      },
+      {
+        "name": "Lightborn - Ranger",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211211021856",
+        "script": 18
+      },
+      {
+        "name": "Imperial Warrior",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero179-portrait.png/revision/latest?cb=20220525164709",
+        "script": 19
+      },
+      {
+        "name": "Blade of Kibou",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220113105226",
+        "script": 20
+      },
+      {
+        "name": "Heart Afloat",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb=20230212035453",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220301023844",
+        "script": 21
+      },
+      {
+        "name": "Mikasa Ackerman",
+        "img": "https://raw.githubusercontent.com/kinAgonace/AOT/main/20240128_093235.jpg",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png/revision/latest/thumbnail-down/width/74/height/20?cb=20240127075501",
+        "script": 104
+      }
+    ]
+  },
+  {
+    "hero": "Fanny",
+    "head": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20241021141015",
+    "skins": [
+      {
+        "name": "Blade of Roses",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20220525165242",
+        "script": 22
+      },
+      {
+        "name": "Masked Knight",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest?cb=20220525165245",
+        "script": 777
+      },
+      {
+        "name": "Christmas Carnival",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb=20220525165246",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100",
+        "script": 23
+      },
+      {
+        "name": "Dark Earl",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest?cb=20220525165248",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603",
+        "script": 24
+      },
+      {
+        "name": "Floral Knight",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest?cb=20220525165250",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258",
+        "script": 25
+      },
+      {
+        "name": "Royal Matador",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb=20220525165247",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258",
+        "script": 26
+      },
+      {
+        "name": "Swordmaster",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Dawning_Stars_Skin_Tag.png/revision/latest/thumbnail-down/width/69/height/20?cb=20230319055038",
+        "script": 27
+      },
+      {
+        "name": "Pisces",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801",
+        "script": 28
+      },
+      {
+        "name": "Bren Esports",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258",
+        "script": 29
+      },
+      {
+        "name": "Empyrean Flame",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb=20220804115345",
+        "script": 30
+      },
+      {
+        "name": "Marques of Blades",
+        "img": "https://github.com/lanz132/Img/raw/main/lance.webp",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230",
+        "script": 98
+      },
+      {
+        "name": "Guardian of the Shrine",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/lancelot%208-2-24.jpg",
+        "script": 112
+      }
+    ]
+  }
 ]
