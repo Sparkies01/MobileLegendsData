@@ -1,1 +1,28 @@
-test
+[
+    {
+        "img": "https://github.com/lanz132/BANNER/raw/main/naruto.jpg",
+        "name": "Naruto Uzumaki"
+    },
+    {
+        "img": "https://github.com/lanz132/BANNER/raw/main/sasuke.jpg",
+        "name": "Sasuke Uchiha"
+    },
+    {
+        "img": "https://github.com/lanz132/BANNER/raw/main/kakashe.jpg",
+        "name": "Kakashi Hatake"
+    },
+    {
+        "img": "https://github.com/lanz132/BANNER/raw/main/sakura.jpg",
+        "name": "Kalea Sakura"
+    },
+    {
+        "img": "https://github.com/lanz132/BANNER/raw/main/gaara.jpg",
+        "name": "Gaara"
+    },
+    {
+        "img": "ing1",
+        "skin": "img1",
+        "tag": "tag1",
+        "script": "1"
+    }
+]
