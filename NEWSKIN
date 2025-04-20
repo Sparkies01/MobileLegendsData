@@ -4,35 +4,35 @@
     "hero": "Lukas",
     "name": "Naruto Uzumaki",
     "img": "https://github.com/lanz132/BANNER/raw/main/naruto.jpg",
-    "role": "Assassin",
+    "role": "Fighter",
     "pos":"3"
   },
   {
     "hero": "Suyou",
     "name": "Sasuke Uchiha",
     "img": "https://github.com/lanz132/BANNER/raw/main/sasuke.jpg",
-    "role": "Fighter",
+    "role": "Assasin",
      "pos":"1"
   },
   {
     "hero": "Hayabusa",
     "name": "Kakashi Hatake",
     "img": "https://github.com/lanz132/BANNER/raw/main/kakashe.jpg",
-    "role": "Ninja",
+    "role": "Assasin",
      "pos":"2"
   },
   {
     "hero": "Kalea",
     "name": "Sakura Haruno",
     "img": "https://github.com/lanz132/BANNER/raw/main/sakura.jpg",
-    "role": "Support",
+    "role": "Fighter",
     "pos":"4"
   },
   {
     "hero": "Vale",
     "name": "Gaara",
     "img": "https://github.com/lanz132/BANNER/raw/main/gaara.jpg",
-    "role": "Tank",
+    "role": "Mage",
      "pos":""
   }
 ]
