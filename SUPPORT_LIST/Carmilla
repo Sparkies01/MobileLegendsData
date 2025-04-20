@@ -1,70 +1,15 @@
 [
   {
-    "name": "Bunny Love",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png/revision/latest?cb=20220525165419",
-    "script": "8"
-  },
-  {
-    "name": "Shanhai Maiden",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero553-portrait.png/revision/latest?cb=20220525165432",
-    "script": "9",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
-  },
-  {
-    "name": "Summer Vibes",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero556-portrait.png/revision/latest?cb=20220525165435",
-    "script": "10",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20210728125205"
-  },
-  {
-    "name": "Scream Doll",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero555-portrait.png/revision/latest?cb=20220525165434",
-    "script": "11",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20221111140633"
-  },
-  {
-    "name": "V.E.N.O.M Vespid",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero554-portrait.png/revision/latest?cb=20220525165433",
-    "script": "12",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/V.E.N.O.M._Skin_Tag.png/revision/latest/thumbnail-down/width/34/height/20?cb=20220822150336"
-  },
-  {
-    "name": "Floral Elf",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest?cb=20220525165436",
-    "script": "13",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
-  },
-  {
-    "name": "Heartstring",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest?cb=20220525165437",
-    "script": "14",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Sanrio_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220217000457"
-  },
-  {
-    "name": "Aspirant",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest?cb=20221103134616",
-    "script": "15",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220113105226"
-  },
-  {
-    "name": "Avatar of Time",
-    "img": "https://github.com/lanz132/NEWIMG/raw/main/angela.jpg",
-    "script": "53"
-  },
-  {
-    "name": "Kishin Denetsu",
-    "img": "https://github.com/lanz132/NEWIMG/raw/main/angela%208-2-24.jpg",
-    "script": "59"
-  },
-  {
     "name": "Shadow of Twilight",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Shadow_of_Twilight.jpg/revision/latest/scale-to-width-down/250?cb=20211225051616",
-    "script": "38"
+    "script": "38",
+    "tag": ""
   },
   {
     "name": "Wisteria Countess",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Wisteria_Countess.jpg/revision/latest/scale-to-width-down/250?cb=20211225051631",
-    "script": "39"
+    "script": "39",
+    "tag": ""
   },
   {
     "name": "Magician Girl",
