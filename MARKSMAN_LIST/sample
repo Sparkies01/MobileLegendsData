@@ -1,1 +1,117 @@
-sample
+{
+  "hero": "Fanny",
+  "dataSkins": [
+    {
+      "title": "Replace to Elite Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest?cb=20220525164702",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_ELITE-_CHRISTMAS.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb=20220525164704",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_ELITE-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_ELITE-_LIGHTBORN.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_ELITE-_ASPIRANT.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb=20240127074733",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_ELITE-_AOT.zip"
+        }
+      ]
+    },
+    {
+      "title": "Replace to Season Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest?cb=20220525164703",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_SEASON-_CHRISTMAS.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb=20220525164704",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_SEASON-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_SEASON-_LIGHTBORN.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_SEASON-_ASPIRANT.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_SEASON-_SUMMER.zip"
+        }
+      ]
+    },
+    {
+      "title": "Replace to Emperial Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero179-portrait.png/revision/latest?cb=20220525164709",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_IMPERIAL-_CHRISTMAS.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb=20220525164704",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_IMPERIAL-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_IMPERIAL-_LIGHTBORN.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_IMPERIAL-_ASPIRANT.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb=20240127074733",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_IMPERIAL-_AOT.zip"
+        }
+      ]
+    },
+    {
+      "title": "Replace to Summer Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_SUMMER-_CHRISTMAS.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb=20220525164704",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_SUMMER-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_SUMMER-_LIGHTBORN.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/FANNY_IMPERIAL-_ASPIRANT.zip"
+        }
+      ]
+    }
+  ]
+}
