@@ -1,26 +1,23 @@
 [
-  {
-    "name": "Flash of Miracle",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20221021123838",
-    "script": 94,
-    "tag": null
-  },
-  {
-    "name": "Feline Ranger",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest?cb=20221021123853",
-    "script": 95,
-    "tag": null
-  },
-  {
-    "name": "Royal Protector",
-    "img": "https://github.com/lanz132/NEWIMG/raw/main/joy%20eli.jpg",
-    "script": 103,
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
-  },
-  {
-    "name": "Exoustar Scout",
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/joy%20starlight.png",
-    "script": 119,
-    "tag": null
-  }
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20221021123838",
+        "name": "Flash of Miracle",
+        "script": 94
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest?cb=20221021123853",
+        "name": "Feline Ranger",
+        "script": 95
+    },
+    {
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/joy%20eli.jpg",
+        "name": "Royal Protector",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230",
+        "script": 103
+    },
+    {
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/joy%20starlight.png",
+        "name": "Exoustar Scout",
+        "script": 125
+    }
 ]
