@@ -1,577 +1,577 @@
 [
-  {
-    "name": "Backup",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Backup%20emote.png",
-    "script": "1"
-  },
-  {
-    "name": "Love Ya",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Love_Ya%21.png/revision/latest/scale-to-width-down/340?cb=20200710045046",
-    "script": "2"
-  },
-  {
-    "name": "Chou Kof",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Am_I_Scary.png/revision/latest/top-crop/width/220/height/220?cb=20200709164919",
-    "script": "3"
-  },
-  {
-    "name": "Here I come",
-    "img": "https://github.com/pleaset/collection/raw/main/Here_I_come!.png",
-    "script": "4"
-  },
-  {
-    "name": "Alucard",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Emote%20alucard.png",
-    "script": "5"
-  },
-  {
-    "name": "Guinevere Kof",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Guinevere%20kof.png",
-    "script": "6"
-  },
-  {
-    "name": "Aurora Kof",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Aurora%20kof.png",
-    "script": "7"
-  },
-  {
-    "name": "Karina Kof",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Karina%20kof.png",
-    "script": "8"
-  },
-  {
-    "name": "Chou Hero",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Chou%20hero.png",
-    "script": "9"
-  },
-  {
-    "name": "Gusion Kof",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Gusion%20kof.png",
-    "script": "10"
-  },
-  {
-    "name": "Dyrroth Kof",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Dyrroth%20kof.png",
-    "script": "11"
-  },
-  {
-    "name": "Long Legged",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Long-Legged.png/revision/latest/top-crop/width/220/height/220?cb=20200709144806",
-    "script": "12"
-  },
-  {
-    "name": "Alpha Abyss",
-    "img": "https://github.com/lanz132/Elimination/raw/main/abyss%20emote.png",
-    "script": "13"
-  },
-  {
-    "name": "Chou Stun",
-    "img": "https://github.com/pleaset/img/raw/main/PicsArt_04-18-06.40.53.png",
-    "script": "14"
-  },
-  {
-    "name": "Selena Stun",
-    "img": "https://github.com/pleaset/img/raw/main/selena.png",
-    "script": "15"
-  },
-  {
-    "name": "Brody Stun",
-    "img": "https://github.com/pleaset/img/raw/main/brody.png",
-    "script": "16"
-  },
-  {
-    "name": "Chan'g e",
-    "img": "https://github.com/pleaset/img/raw/main/chang%20e.png",
-    "script": "17"
-  },
-  {
-    "name": "Lesley Bye²",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Lesley%20bye2.png",
-    "script": "18"
-  },
-  {
-    "name": "Aldous M1",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Emote%20Aldous%20M1.png",
-    "script": "19"
-  },
-  {
-    "name": "Ling Starlight",
-    "img": "https://github.com/pleaset/1.20/raw/main/Ling.png",
-    "script": "20"
-  },
-  {
-    "name": "Kagura Exorcist",
-    "img": "https://github.com/lanz132/1.75/raw/main/23.png",
-    "script": "21"
-  },
-  {
-    "name": "Angela Aspirant",
-    "img": "https://github.com/lanz132/1.75/raw/main/24.png",
-    "script": "22"
-  },
-  {
-    "name": "Bruno Neymar",
-    "img": "https://github.com/lanz132/1.75/raw/main/25.png",
-    "script": "23"
-  },
-  {
-    "name": "Chou Saint Seiya",
-    "img": "https://github.com/lanz132/1.75/raw/main/26.png",
-    "script": "24"
-  },
-  {
-    "name": "Lesley Anual Star",
-    "img": "https://github.com/lanz132/1.75/raw/main/27.png",
-    "script": "25"
-  },
-  {
-    "name": "Ruby Aspirant",
-    "img": "https://github.com/lanz132/1.75/raw/main/28.png",
-    "script": "26"
-  },
-  {
-    "name": "Valir Saint Seiya",
-    "img": "https://github.com/lanz132/1.75/raw/main/29.png",
-    "script": "27"
-  },
-  {
-    "name": "Badang Saint Seiya",
-    "img": "https://github.com/lanz132/1.75/raw/main/30.png",
-    "script": "28"
-  },
-  {
-    "name": "Oftimus Prime",
-    "img": "https://github.com/lanz132/1.32/raw/main/OFTIMUS.png",
-    "script": "29"
-  },
-  {
-    "name": "Bumblebee",
-    "img": "https://github.com/lanz132/1.32/raw/main/BUMBLEBEE.png",
-    "script": "30"
-  },
-  {
-    "name": "Megatron",
-    "img": "https://github.com/lanz132/1.32/raw/main/MEGATRON.png",
-    "script": "31"
-  },
-  {
-    "name": "Alpha Abyss",
-    "img": "https://github.com/lanz132/Elimination/raw/main/abyss%20emote.png",
-    "script": "32"
-  },
-  {
-    "name": "Esmeralda",
-    "img": "https://github.com/pleaset/1.20/raw/main/ESMERALDA.png",
-    "script": "33"
-  },
-  {
-    "name": "Lol",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/LOL.png/revision/latest/top-crop/width/300/height/300?cb=20200719082924",
-    "script": "34"
-  },
-  {
-    "name": "Heart Breaking",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Heartbreaking.png/revision/latest/top-crop/width/150/height/150?cb=20200719152633",
-    "script": "35"
-  },
-  {
-    "name": "Come hit me",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Come_%26_Hit_Me%21.png/revision/latest/top-crop/width/220/height/220?cb=20200710045143",
-    "script": "36"
-  },
-  {
-    "name": "Carry me to the end",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Carry_Me_to_the_End.png/revision/latest?cb=20200713105418",
-    "script": "37"
-  },
-  {
-    "name": "Rrq Esports",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/LOGO_RRQ_orange.png",
-    "script": "38"
-  },
-  {
-    "name": "Onic Esports",
-    "img": "https://github.com/lanz132/1.75/raw/main/1.png",
-    "script": "39"
-  },
-  {
-    "name": "Geek Fam Esports",
-    "img": "https://geekfam.asia/wp-content/uploads/2019/12/Geek-Fam-2020-Favicon.png",
-    "script": "40"
-  },
-  {
-    "name": "Evos Esports",
-    "img": "https://i.imgur.com/Ab3yaR9.png",
-    "script": "41"
-  },
-  {
-    "name": "Aura Esports",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Aura.png",
-    "script": "42"
-  },
-  {
-    "name": "Alter Ego Esports",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Alterego.png",
-    "script": "43"
-  },
-  {
-    "name": "Aerwolf Esports",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Aerowolf.png",
-    "script": "44"
-  },
-  {
-    "name": "Bren Esports",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bren_Esports.png",
-    "script": "45"
-  },
-  {
-    "name": "Bigetron Esports",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/bigetron.png",
-    "script": "46"
-  },
-  {
-    "name": "Nxp Solid Esports",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Nxp%20solid.png",
-    "script": "47"
-  },
-  {
-    "name": "Execration Esports",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Execration.png",
-    "script": "48"
-  },
-  {
-    "name": "Blacklist Esports",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Blacklist.png",
-    "script": "49"
-  },
-  {
-    "name": "Evos Esports",
-    "img": "https://github.com/lanz132/1.75/raw/main/8.png",
-    "script": "50"
-  },
-  {
-    "name": "Rrq Esports",
-    "img": "https://github.com/lanz132/1.75/raw/main/14.png",
-    "script": "51"
-  },
-  {
-    "name": "Work Esports",
-    "img": "https://github.com/pleaset/1.24/raw/main/WORK.png",
-    "script": "52"
-  },
-  {
-    "name": "Laus Playbook Esports ",
-    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Laus%20playbook.png",
-    "script": "53"
-  },
-  {
-    "name": "RRQ M3 Esports",
-    "img": "https://github.com/lanz132/1.40/raw/main/RRQ.png",
-    "script": "54"
-  },
-  {
-    "name": "Onic M3 Esports",
-    "img": "https://github.com/lanz132/1.40/raw/main/ONIC.png",
-    "script": "55"
-  },
-  {
-    "name": "Navi M3 Esports",
-    "img": "https://github.com/lanz132/1.40/raw/main/NAVI.png",
-    "script": "56"
-  },
-  {
-    "name": "MVG M3 Esports",
-    "img": "https://github.com/lanz132/1.40/raw/main/MVG.png",
-    "script": "57"
-  },
-  {
-    "name": "Sasuki",
-    "img": "https://github.com/pleaset/img/raw/main/sasuki.png",
-    "script": "58"
-  },
-  {
-    "name": "Yamatte Kudasai",
-    "img": "https://github.com/pleaset/img/raw/main/cat.png",
-    "script": "59"
-  },
-  {
-    "name": "Naruto",
-    "img": "https://github.com/BANGMAMET1995/Update24/raw/main/Emote%20naruto.png",
-    "script": "60"
-  },
-  {
-    "name": "Levi",
-    "img": "https://github.com/BANGMAMET1995/Update24/raw/main/Emote%20levi.png",
-    "script": "61"
-  },
-  {
-    "name": "Onichan",
-    "img": "https://github.com/pleaset/1.20/raw/main/Oni%20chan.png",
-    "script": "62"
-  },
-  {
-    "name": "Punch Down",
-    "img": "https://github.com/pleaset/1.20/raw/main/Punch%20Down.png",
-    "script": "63"
-  },
-  {
-    "name": "Yamette",
-    "img": "https://github.com/pleaset/1.20/raw/main/Yamette.png",
-    "script": "64"
-  },
-  {
-    "name": "Naruto",
-    "img": "https://github.com/pleaset/1.20/raw/main/naruto.png",
-    "script": "65"
-  },
-  {
-    "name": "Yey! Nice 1 Baby",
-    "img": "https://github.com/pleaset/1.20/raw/main/nice.png",
-    "script": "66"
-  },
-  {
-    "name": "Ara ara",
-    "img": "https://github.com/pleaset/1.20/raw/main/Ara.png",
-    "script": "67"
-  },
-  {
-    "name": "Emperor",
-    "img": "",
-    "script": "68"
-  },
-  {
-    "name": "Ayiie!!",
-    "img": "https://github.com/lanz132/1.50/raw/main/Andrea%201.png",
-    "script": "70"
-  },
-  {
-    "name": "Fighting!!",
-    "img": "https://github.com/lanz132/1.50/raw/main/Andrea%202.png",
-    "script": "71"
-  },
-  {
-    "name": "iiyak na yan!!",
-    "img": "https://github.com/lanz132/1.50/raw/main/Andrea%203.png",
-    "script": "72"
-  },
-  {
-    "name": "Choox Tv",
-    "img": "https://github.com/lanz132/1.75/raw/main/5.png",
-    "script": "73"
-  },
-  {
-    "name": "Larry Gadon",
-    "img": "https://github.com/pleaset/1.20/raw/main/BuBu.png",
-    "script": "74"
-  },
-  {
-    "name": "Freestyle",
-    "img": "https://github.com/pleaset/1.20/raw/main/Girl%20FREESTYLE.png",
-    "script": "75"
-  },
-  {
-    "name": "Biasa",
-    "img": "https://github.com/pleaset/1.24/raw/main/biasa.png",
-    "script": "76"
-  },
-  {
-    "name": "Bknt2",
-    "img": "https://github.com/pleaset/1.24/raw/main/BKNT2.png",
-    "script": "77"
-  },
-  {
-    "name": "Basudara",
-    "img": "https://github.com/pleaset/1.24/raw/main/basudara.png",
-    "script": "78"
-  },
-  {
-    "name": "Yamette",
-    "img": "https://github.com/pleaset/1.24/raw/main/YAMETTE.png",
-    "script": "79"
-  },
-  {
-    "name": "Lemon 2",
-    "img": "https://github.com/pleaset/1.24/raw/main/LEMON2.png",
-    "script": "80"
-  },
-  {
-    "name": "BKENT1",
-    "img": "https://github.com/pleaset/1.24/raw/main/BKENT1.png",
-    "script": "81"
-  },
-  {
-    "name": "Jess No Limit",
-    "img": "https://github.com/pleaset/1.28/raw/main/PicsArt_07-28-09.54.10.png",
-    "script": "82"
-  },
-  {
-    "name": "Ice Frog",
-    "img": "https://github.com/lanz132/1.75/raw/main/6.png",
-    "script": "83"
-  },
-  {
-    "name": "Ggez!",
-    "img": "https://github.com/lanz132/1.75/raw/main/7.png",
-    "script": "84"
-  },
-  {
-    "name": "Echo Ph S10",
-    "img": "https://github.com/lanz132/1.75/raw/main/9.png",
-    "script": "85"
-  },
-  {
-    "name": "Rbl Mpl S10",
-    "img": "https://github.com/lanz132/1.75/raw/main/10.png",
-    "script": "86"
-  },
-  {
-    "name": "Heleking",
-    "img": "https://github.com/lanz132/1.75/raw/main/11.png",
-    "script": "87"
-  },
-  {
-    "name": "Btr Mpl S10",
-    "img": "",
-    "script": "88"
-  },
-  {
-    "name": "Soloz",
-    "img": "https://github.com/lanz132/1.75/raw/main/13.png",
-    "script": "89"
-  },
-  {
-    "name": "Gosu",
-    "img": "https://github.com/lanz132/1.75/raw/main/15.png",
-    "script": "90"
-  },
-  {
-    "name": "Kyuubi",
-    "img": "https://github.com/lanz132/1.75/raw/main/16.png",
-    "script": "91"
-  },
-  {
-    "name": "Aura Mpl S10",
-    "img": "https://github.com/lanz132/1.75/raw/main/17.png",
-    "script": "92"
-  },
-  {
-    "name": "Jess Full Power",
-    "img": "https://github.com/lanz132/1.75/raw/main/18.png",
-    "script": "93"
-  },
-  {
-    "name": "Sorry Uwu!",
-    "img": "https://github.com/lanz132/1.75/raw/main/20.png",
-    "script": "94"
-  },
-  {
-    "name": "Kelazzz!",
-    "img": "https://github.com/lanz132/1.75/raw/main/21.png",
-    "script": "95"
-  },
-  {
-    "name": "Next Level bro",
-    "img": "https://github.com/lanz132/1.75/raw/main/22.png",
-    "script": "96"
-  },
-  {
-    "name": "I'm the dragon warrior",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Eakai.png",
-    "script": "97"
-  },
-  {
-    "name": "The throne is mine ",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Elingpanda.png",
-    "script": "98"
-  },
-  {
-    "name": "Kai has returned",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Ethamuz.png",
-    "script": "99"
-  },
-  {
-    "name": "Let's Night",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Eyin.png",
-    "script": "100"
-  },
-  {
-    "name": "Melancholy",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Ejulian.png",
-    "script": "101"
-  },
-  {
-    "name": "Zip it!",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Emelissa.png",
-    "script": "102"
-  },
-  {
-    "name": "Delighted",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Eyin2.png",
-    "script": "103"
-  },
-  {
-    "name": "Nice job!",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Exavier.png",
-    "script": "104"
-  },
-  {
-    "name": "My time well come!",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Ealdous.png",
-    "script": "105"
-  },
-  {
-    "name": "Ravage Effect",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Eroger.png",
-    "script": "106"
-  },
-  {
-    "name": "Me Grimlock King!",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Epopol.png",
-    "script": "107"
-  },
-  {
-    "name": "Embarrassed",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Eyuzhong.png",
-    "script": "108"
-  },
-  {
-    "name": "Ling 515",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Eling515.png",
-    "script": "109"
-  },
-  {
-    "name": "Yin 515",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Eyin515.png",
-    "script": "110"
-  },
-  {
-    "name": "Wanwan 515",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Ewanwan515.png",
-    "script": "111"
-  },
-  {
-    "name": "Harmonia",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Eeudora.png",
-    "script": "112"
-  },
-  {
-    "name": "Moonlight Blossom",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Ehanabi.png",
-    "script": "113"
-  },
-  {
-    "name": "Guilding Arrow",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Emiya.png",
-    "script": "114"
-  },
-  {
-    "name": "Looks Decide Everything",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Erafaela.png",
-    "script": "115"
-  },
-  {
-    "name": "M3 Champion",
-    "img": "https://github.com/lanz132/EMOTES/raw/main/Em3.png",
-    "script": "116"
-  }
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Backup%20emote.png",
+        "name": "Backup",
+        "script": "1"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Love_Ya%21.png/revision/latest/scale-to-width-down/340?cb=20200710045046",
+        "name": "Love Ya",
+        "script": "2"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Am_I_Scary.png/revision/latest/top-crop/width/220/height/220?cb=20200709164919",
+        "name": "Chou Kof",
+        "script": "3"
+    },
+    {
+        "img": "https://github.com/pleaset/collection/raw/main/Here_I_come!.png",
+        "name": "Here I come",
+        "script": "4"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Emote%20alucard.png",
+        "name": "Alucard",
+        "script": "5"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Guinevere%20kof.png",
+        "name": "Guinevere Kof",
+        "script": "6"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Aurora%20kof.png",
+        "name": "Aurora Kof",
+        "script": "7"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Karina%20kof.png",
+        "name": "Karina Kof",
+        "script": "8"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Chou%20hero.png",
+        "name": "Chou Hero",
+        "script": "9"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Gusion%20kof.png",
+        "name": "Gusion Kof",
+        "script": "10"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Dyrroth%20kof.png",
+        "name": "Dyrroth Kof",
+        "script": "11"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Long-Legged.png/revision/latest/top-crop/width/220/height/220?cb=20200709144806",
+        "name": "Long Legged",
+        "script": "12"
+    },
+    {
+        "img": "https://github.com/lanz132/Elimination/raw/main/abyss%20emote.png",
+        "name": "Alpha Abyss",
+        "script": "13"
+    },
+    {
+        "img": "https://github.com/pleaset/img/raw/main/PicsArt_04-18-06.40.53.png",
+        "name": "Chou Stun",
+        "script": "14"
+    },
+    {
+        "img": "https://github.com/pleaset/img/raw/main/selena.png",
+        "name": "Selena Stun",
+        "script": "15"
+    },
+    {
+        "img": "https://github.com/pleaset/img/raw/main/brody.png",
+        "name": "Brody Stun",
+        "script": "16"
+    },
+    {
+        "img": "https://github.com/pleaset/img/raw/main/chang%20e.png",
+        "name": "Chan'g e",
+        "script": "17"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Lesley%20bye2.png",
+        "name": "Lesley Bye²",
+        "script": "18"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Emote%20Aldous%20M1.png",
+        "name": "Aldous M1",
+        "script": "19"
+    },
+    {
+        "img": "https://github.com/pleaset/1.20/raw/main/Ling.png",
+        "name": "Ling Starlight",
+        "script": "20"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/23.png",
+        "name": "Kagura Exorcist",
+        "script": "21"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/24.png",
+        "name": "Angela Aspirant",
+        "script": "22"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/25.png",
+        "name": "Bruno Neymar",
+        "script": "23"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/26.png",
+        "name": "Chou Saint Seiya",
+        "script": "24"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/27.png",
+        "name": "Lesley Anual Star",
+        "script": "25"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/28.png",
+        "name": "Ruby Aspirant",
+        "script": "26"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/29.png",
+        "name": "Valir Saint Seiya",
+        "script": "27"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/30.png",
+        "name": "Badang Saint Seiya",
+        "script": "28"
+    },
+    {
+        "img": "https://github.com/lanz132/1.32/raw/main/OFTIMUS.png",
+        "name": "Oftimus Prime",
+        "script": "29"
+    },
+    {
+        "img": "https://github.com/lanz132/1.32/raw/main/BUMBLEBEE.png",
+        "name": "Bumblebee",
+        "script": "30"
+    },
+    {
+        "img": "https://github.com/lanz132/1.32/raw/main/MEGATRON.png",
+        "name": "Megatron",
+        "script": "31"
+    },
+    {
+        "img": "https://github.com/lanz132/Elimination/raw/main/abyss%20emote.png",
+        "name": "Alpha Abyss",
+        "script": "32"
+    },
+    {
+        "img": "https://github.com/pleaset/1.20/raw/main/ESMERALDA.png",
+        "name": "Esmeralda",
+        "script": "33"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/LOL.png/revision/latest/top-crop/width/300/height/300?cb=20200719082924",
+        "name": "Lol",
+        "script": "34"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Heartbreaking.png/revision/latest/top-crop/width/150/height/150?cb=20200719152633",
+        "name": "Heart Breaking",
+        "script": "35"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Come_%26_Hit_Me%21.png/revision/latest/top-crop/width/220/height/220?cb=20200710045143",
+        "name": "Come hit me",
+        "script": "36"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Carry_Me_to_the_End.png/revision/latest?cb=20200713105418",
+        "name": "Carry me to the end",
+        "script": "37"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/LOGO_RRQ_orange.png",
+        "name": "Rrq Esports",
+        "script": "38"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/1.png",
+        "name": "Onic Esports",
+        "script": "39"
+    },
+    {
+        "img": "https://geekfam.asia/wp-content/uploads/2019/12/Geek-Fam-2020-Favicon.png",
+        "name": "Geek Fam Esports",
+        "script": "40"
+    },
+    {
+        "img": "https://i.imgur.com/Ab3yaR9.png",
+        "name": "Evos Esports",
+        "script": "41"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Aura.png",
+        "name": "Aura Esports",
+        "script": "42"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Alterego.png",
+        "name": "Alter Ego Esports",
+        "script": "43"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Aerowolf.png",
+        "name": "Aerwolf Esports",
+        "script": "44"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bren_Esports.png",
+        "name": "Bren Esports",
+        "script": "45"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/bigetron.png",
+        "name": "Bigetron Esports",
+        "script": "46"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Nxp%20solid.png",
+        "name": "Nxp Solid Esports",
+        "script": "47"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Execration.png",
+        "name": "Execration Esports",
+        "script": "48"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Blacklist.png",
+        "name": "Blacklist Esports",
+        "script": "49"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/8.png",
+        "name": "Evos Esports",
+        "script": "50"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/14.png",
+        "name": "Rrq Esports",
+        "script": "51"
+    },
+    {
+        "img": "https://github.com/pleaset/1.24/raw/main/WORK.png",
+        "name": "Work Esports",
+        "script": "52"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/emote/raw/main/Laus%20playbook.png",
+        "name": "Laus Playbook Esports ",
+        "script": "53"
+    },
+    {
+        "img": "https://github.com/lanz132/1.40/raw/main/RRQ.png",
+        "name": "RRQ M3 Esports",
+        "script": "54"
+    },
+    {
+        "img": "https://github.com/lanz132/1.40/raw/main/ONIC.png",
+        "name": "Onic M3 Esports",
+        "script": "55"
+    },
+    {
+        "img": "https://github.com/lanz132/1.40/raw/main/NAVI.png",
+        "name": "Navi M3 Esports",
+        "script": "56"
+    },
+    {
+        "img": "https://github.com/lanz132/1.40/raw/main/MVG.png",
+        "name": "MVG M3 Esports",
+        "script": "57"
+    },
+    {
+        "img": "https://github.com/pleaset/img/raw/main/sasuki.png",
+        "name": "Sasuki",
+        "script": "58"
+    },
+    {
+        "img": "https://github.com/pleaset/img/raw/main/cat.png",
+        "name": "Yamatte Kudasai",
+        "script": "59"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/Update24/raw/main/Emote%20naruto.png",
+        "name": "Naruto",
+        "script": "60"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/Update24/raw/main/Emote%20levi.png",
+        "name": "Levi",
+        "script": "61"
+    },
+    {
+        "img": "https://github.com/pleaset/1.20/raw/main/Oni%20chan.png",
+        "name": "Onichan",
+        "script": "62"
+    },
+    {
+        "img": "https://github.com/pleaset/1.20/raw/main/Punch%20Down.png",
+        "name": "Punch Down",
+        "script": "63"
+    },
+    {
+        "img": "https://github.com/pleaset/1.20/raw/main/Yamette.png",
+        "name": "Yamette",
+        "script": "64"
+    },
+    {
+        "img": "https://github.com/pleaset/1.20/raw/main/naruto.png",
+        "name": "Naruto",
+        "script": "65"
+    },
+    {
+        "img": "https://github.com/pleaset/1.20/raw/main/nice.png",
+        "name": "Yey! Nice 1 Baby",
+        "script": "66"
+    },
+    {
+        "img": "https://github.com/pleaset/1.20/raw/main/Ara.png",
+        "name": "Ara ara",
+        "script": "67"
+    },
+    {
+        "img": "",
+        "name": "Emperor",
+        "script": "68"
+    },
+    {
+        "img": "https://github.com/lanz132/1.50/raw/main/Andrea%201.png",
+        "name": "Ayiie!!",
+        "script": "70"
+    },
+    {
+        "img": "https://github.com/lanz132/1.50/raw/main/Andrea%202.png",
+        "name": "Fighting!!",
+        "script": "71"
+    },
+    {
+        "img": "https://github.com/lanz132/1.50/raw/main/Andrea%203.png",
+        "name": "iiyak na yan!!",
+        "script": "72"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/5.png",
+        "name": "Choox Tv",
+        "script": "73"
+    },
+    {
+        "img": "https://github.com/pleaset/1.20/raw/main/BuBu.png",
+        "name": "Larry Gadon",
+        "script": "74"
+    },
+    {
+        "img": "https://github.com/pleaset/1.20/raw/main/Girl%20FREESTYLE.png",
+        "name": "Freestyle",
+        "script": "75"
+    },
+    {
+        "img": "https://github.com/pleaset/1.24/raw/main/biasa.png",
+        "name": "Biasa",
+        "script": "76"
+    },
+    {
+        "img": "https://github.com/pleaset/1.24/raw/main/BKNT2.png",
+        "name": "Bknt2",
+        "script": "77"
+    },
+    {
+        "img": "https://github.com/pleaset/1.24/raw/main/basudara.png",
+        "name": "Basudara",
+        "script": "78"
+    },
+    {
+        "img": "https://github.com/pleaset/1.24/raw/main/YAMETTE.png",
+        "name": "Yamette",
+        "script": "79"
+    },
+    {
+        "img": "https://github.com/pleaset/1.24/raw/main/LEMON2.png",
+        "name": "Lemon 2",
+        "script": "80"
+    },
+    {
+        "img": "https://github.com/pleaset/1.24/raw/main/BKENT1.png",
+        "name": "BKENT1",
+        "script": "81"
+    },
+    {
+        "img": "https://github.com/pleaset/1.28/raw/main/PicsArt_07-28-09.54.10.png",
+        "name": "Jess No Limit",
+        "script": "82"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/6.png",
+        "name": "Ice Frog",
+        "script": "83"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/7.png",
+        "name": "Ggez!",
+        "script": "84"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/9.png",
+        "name": "Echo Ph S10",
+        "script": "85"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/10.png",
+        "name": "Rbl Mpl S10",
+        "script": "86"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/11.png",
+        "name": "Heleking",
+        "script": "87"
+    },
+    {
+        "img": "",
+        "name": "Btr Mpl S10",
+        "script": "88"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/13.png",
+        "name": "Soloz",
+        "script": "89"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/15.png",
+        "name": "Gosu",
+        "script": "90"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/16.png",
+        "name": "Kyuubi",
+        "script": "91"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/17.png",
+        "name": "Aura Mpl S10",
+        "script": "92"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/18.png",
+        "name": "Jess Full Power",
+        "script": "93"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/20.png",
+        "name": "Sorry Uwu!",
+        "script": "94"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/21.png",
+        "name": "Kelazzz!",
+        "script": "95"
+    },
+    {
+        "img": "https://github.com/lanz132/1.75/raw/main/22.png",
+        "name": "Next Level bro",
+        "script": "96"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Eakai.png",
+        "name": "I'm the dragon warrior",
+        "script": "97"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Elingpanda.png",
+        "name": "The throne is mine ",
+        "script": "98"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Ethamuz.png",
+        "name": "Kai has returned",
+        "script": "99"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Eyin.png",
+        "name": "Let's Night",
+        "script": "100"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Ejulian.png",
+        "name": "Melancholy",
+        "script": "101"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Emelissa.png",
+        "name": "Zip it!",
+        "script": "102"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Eyin2.png",
+        "name": "Delighted",
+        "script": "103"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Exavier.png",
+        "name": "Nice job!",
+        "script": "104"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Ealdous.png",
+        "name": "My time well come!",
+        "script": "105"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Eroger.png",
+        "name": "Ravage Effect",
+        "script": "106"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Epopol.png",
+        "name": "Me Grimlock King!",
+        "script": "107"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Eyuzhong.png",
+        "name": "Embarrassed",
+        "script": "108"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Eling515.png",
+        "name": "Ling 515",
+        "script": "109"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Eyin515.png",
+        "name": "Yin 515",
+        "script": "110"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Ewanwan515.png",
+        "name": "Wanwan 515",
+        "script": "111"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Eeudora.png",
+        "name": "Harmonia",
+        "script": "112"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Ehanabi.png",
+        "name": "Moonlight Blossom",
+        "script": "113"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Emiya.png",
+        "name": "Guilding Arrow",
+        "script": "114"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Erafaela.png",
+        "name": "Looks Decide Everything",
+        "script": "115"
+    },
+    {
+        "img": "https://github.com/lanz132/EMOTES/raw/main/Em3.png",
+        "name": "M3 Champion",
+        "script": "116"
+    }
 ]
