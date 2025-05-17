@@ -1,432 +1,437 @@
 [
-  {
-    "name": "Classic",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/1.jpg",
-    "script": "1"
-  },
-  {
-    "name": "Lesley Legend",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/2.jpg",
-    "script": "2"
-  },
-  {
-    "name": "Saber Legend",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/3.jpg",
-    "script": "3"
-  },
-  {
-    "name": "Miya Legend",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/4.jpg",
-    "script": "4"
-  },
-  {
-    "name": "Gord Legend",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/5.jpg",
-    "script": "5"
-  },
-  {
-    "name": "Gusion Legend",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/6.jpg",
-    "script": "6"
-  },
-  {
-    "name": "Alucard Legend",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/7.jpg",
-    "script": "7"
-  },
-  {
-    "name": "Blazing Bounty",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/9.jpg",
-    "script": "8"
-  },
-  {
-    "name": "Wave of World",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/11.jpg",
-    "script": "9"
-  },
-  {
-    "name": "Summer Gala",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/15.jpg",
-    "script": "10"
-  },
-  {
-    "name": "Snowman",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/20.jpg",
-    "script": "11"
-  },
-  {
-    "name": "Party King",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/24.jpg",
-    "script": "12"
-  },
-  {
-    "name": "Sky Guardian",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/21.jpg",
-    "script": "13"
-  },
-  {
-    "name": "Starlight",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/14.jpg",
-    "script": "14"
-  },
-  {
-    "name": "Zodiac",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/17.jpg",
-    "script": "15"
-  },
-  {
-    "name": "Venom",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/12.jpg",
-    "script": "16"
-  },
-  {
-    "name": "Spring",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/19.jpg",
-    "script": "17"
-  },
-  {
-    "name": "Mcl",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/28.jpg",
-    "script": "18"
-  },
-  {
-    "name": "Msc",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/13.jpg",
-    "script": "19"
-  },
-  {
-    "name": "M2",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/10.jpg",
-    "script": "20"
-  },
-  {
-    "name": "Kof",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/31.jpg",
-    "script": "21"
-  },
-  {
-    "name": "Super Return",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/16.jpg",
-    "script": "22"
-  },
-  {
-    "name": "Seal Enternal",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/22.jpg",
-    "script": "23"
-  },
-  {
-    "name": "Super Chou",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/8.jpg",
-    "script": "24"
-  },
-  {
-    "name": "Saber",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/18.jpg",
-    "script": "25"
-  },
-  {
-    "name": "Seal Anvil",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/23.jpg",
-    "script": "26"
-  },
-  {
-    "name": "Oriental",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/25.jpg",
-    "script": "27"
-  },
-  {
-    "name": "Lightborn",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/26.jpg",
-    "script": "28"
-  },
-  {
-    "name": "M1 Evos",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/27.jpg",
-    "script": "29"
-  },
-  {
-    "name": "Light & Dark",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/29.jpg",
-    "script": "30"
-  },
-  {
-    "name": "Super Lance",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/30.jpg",
-    "script": "31"
-  },
-  {
-    "name": "Emerald road",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/32.jpg",
-    "script": "32"
-  },
-  {
-    "name": "Fire Crown",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/33.jpg",
-    "script": "33"
-  },
-  {
-    "name": "Halloween",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/34.jpg",
-    "script": "34"
-  },
-  {
-    "name": "Dragon Mark",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/35.jpg",
-    "script": "35"
-  },
-  {
-    "name": "Christmas",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/36.jpg",
-    "script": "36"
-  },
-  {
-    "name": "Carp Wind",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/37.jpg",
-    "script": "37"
-  },
-  {
-    "name": "Blazing West",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/38.jpg",
-    "script": "38"
-  },
-  {
-    "name": "2019 M1 Glory",
-    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/39.jpg",
-    "script": "39"
-  },
-  {
-    "name": "Granger Legend",
-    "img": "https://github.com/pleaset/img/raw/main/PicsArt_04-08-12.13.35.jpg",
-    "script": "40"
-  },
-  {
-    "name": "Transformer",
-    "img": "https://github.com/pleaset/img/raw/main/PicsArt_04-08-12.13.35.jpg",
-    "script": "41"
-  },
-  {
-    "name": "Starwars",
-    "img": "https://github.com/lanz132/1.33/raw/main/PicsArt_09-09-11.54.00.jpg",
-    "script": "42"
-  },
-  {
-    "name": "Abyss",
-    "img": "https://github.com/pleaset/1.24/raw/main/PicsArt_06-28-06.05.27.jpg",
-    "script": "43"
-  },
-  {
-    "name": "Storm",
-    "img": "https://github.com/lanz132/1.38/raw/main/R%20abbys.jpg",
-    "script": "44"
-  },
-  {
-    "name": "Stun",
-    "img": "https://github.com/lanz132/1.38/raw/main/storm.jpg",
-    "script": "45"
-  },
-  {
-    "name": "Bren",
-    "img": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/Recall%20S.T.U.N.png",
-    "script": "46"
-  },
-  {
-    "name": "Valir Legend",
-    "img": "https://github.com/pleaset/1.28/raw/main/PicsArt_07-28-09.38.12.jpg",
-    "script": "47"
-  },
-  {
-    "name": "Roger Prime",
-    "img": "https://github.com/lanz132/1.34/raw/main/PicsArt_09-20-03.25.41.jpg",
-    "script": "48"
-  },
-  {
-    "name": "Esmeralda Hero",
-    "img": "https://github.com/lanz132/1.74/raw/main/R1.jpg",
-    "script": "49"
-  },
-  {
-    "name": "Dashing cat",
-    "img": "https://github.com/lanz132/1.38/raw/main/hero.jpg",
-    "script": "50"
-  },
-  {
-    "name": "Anual star",
-    "img": "https://github.com/BANGMAMET1995/Update24/raw/main/Recall%20grenger%20legend.png",
-    "script": "51"
-  },
-  {
-    "name": "Hello Kitty",
-    "img": "https://github.com/lanz132/1.74/raw/main/R2.jpg",
-    "script": "52"
-  },
-  {
-    "name": "Guinevere Legend",
-    "img": "https://github.com/lanz132/1.74/raw/main/R3.jpg",
-    "script": "53"
-  },
-  {
-    "name": "Mworld",
-    "img": "https://github.com/lanz132/2.0/raw/main/IMG_20220415_150112.jpg",
-    "script": "54"
-  },
-  {
-    "name": "Exorcist",
-    "img": "https://github.com/lanz132/1.74/raw/main/R4.jpg",
-    "script": "55"
-  },
-  {
-    "name": "Black void",
-    "img": "https://github.com/lanz132/1.74/raw/main/R5.jpg",
-    "script": "56"
-  },
-  {
-    "name": "Saint Seiya",
-    "img": "https://github.com/lanz132/1.74/raw/main/R6.jpg",
-    "script": "57"
-  },
-  {
-    "name": "AllStar",
-    "img": "https://github.com/lanz132/1.74/raw/main/R7.jpg",
-    "script": "58"
-  },
-  {
-    "name": "Franco Legend",
-    "img": "https://github.com/lanz132/1.74/raw/main/R8.jpg",
-    "script": "59"
-  },
-  {
-    "name": "Lunox Legend",
-    "img": "https://github.com/lanz132/1.74/raw/main/R9.jpg",
-    "script": "60"
-  },
-  {
-    "name": "Clouds",
-    "img": "https://github.com/lanz132/1.78/raw/main/Screenshot_2023-07-02-02-04-45-240_mobile.legends.patcher-edit.jpg",
-    "script": "61"
-  },
-  {
-    "name": "Ducati",
-    "img": "https://github.com/lanz132/Img/raw/main/ducati.jpg",
-    "script": "62"
-  },
-  {
-    "name": "Dragon",
-    "img": "https://github.com/lanz132/RECALL/raw/main/Dragon.jpg",
-    "script": "63"
-  },
-  {
-    "name": "Luck Golden Egg",
-    "img": "https://github.com/lanz132/RECALL/raw/main/Egg.jpg",
-    "script": "64"
-  },
-  {
-    "name": "Neo beast",
-    "img": "https://github.com/lanz132/RECALL/raw/main/Neobeast.jpg",
-    "script": "65"
-  },
-  {
-    "name": "Angela anual star",
-    "img": "https://github.com/lanz132/RECALL/raw/main/Angela%20star.jpg",
-    "script": "66"
-  },
-  {
-    "name": "M5",
-    "img": "https://github.com/lanz132/RECALL/raw/main/M5.jpg",
-    "script": "67"
-  },
-  {
-    "name": "M5 Prime",
-    "img": "https://github.com/lanz132/RECALL/raw/main/M5%20prime.jpg",
-    "script": "68"
-  },
-  {
-    "name": "Selena Butterfly",
-    "img": "https://github.com/lanz132/RECALL/raw/main/butterfly.jpg",
-    "script": "69"
-  },
-  {
-    "name": "Mistbenders",
-    "img": "https://github.com/lanz132/RECALL/raw/main/Benders.jpg",
-    "script": "70"
-  },
-  {
-    "name": "Freya Legend",
-    "img": "https://github.com/lanz132/RECALL/raw/main/freyalegend.jpg",
-    "script": "71"
-  },
-  {
-    "name": "Attack on titan",
-    "img": "https://github.com/lanz132/RECALL/blob/main/raw.png",
-    "script": "72"
-  },
-  {
-    "name": "Champions Return",
-    "img": "https://github.com/Hiro161123/Gbeffect/raw/main/Recall%20MRL1.png",
-    "script": "73"
-  },
-  {
-    "name": "Champions Here",
-    "img": "https://github.com/Hiro161123/Gbeffect/raw/main/Recall%20MRL2.png",
-    "script": "74"
-  },
-  {
-    "name": "Soul Vessel",
-    "img": "https://github.com/Hiro161123/Gbeffect/raw/main/Recall%20soul%20vessel.png",
-    "script": "75"
-  },
-  {
-    "name": "RORA",
-    "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/76.jpg",
-    "script": "76"
-  },
-  {
-    "name": "EVOS",
-    "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/77.jpg",
-    "script": "77"
-  },
-  {
-    "name": "FCAP",
-    "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/78.jpg",
-    "script": "78"
-  },
-  {
-    "name": "FNOP",
-    "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/79.jpg",
-    "script": "79"
-  },
-  {
-    "name": "GEEK",
-    "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/80.jpg",
-    "script": "80"
-  },
-  {
-    "name": "OMG",
-    "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/81.jpg",
-    "script": "81"
-  },
-  {
-    "name": "RBL",
-    "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/82.jpg",
-    "script": "82"
-  },
-  {
-    "name": "RSG",
-    "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/83.jpg",
-    "script": "83"
-  },
-  {
-    "name": "TLID",
-    "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/84.jpg",
-    "script": "84"
-  },
-  {
-    "name": "TLPH",
-    "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/85.jpg",
-    "script": "85"
-  },
-  {
-    "name": "TNC",
-    "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/86.jpg",
-    "script": "86"
-  }
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/1.jpg",
+        "name": "Classic",
+        "script": "1"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/2.jpg",
+        "name": "Lesley Legend",
+        "script": "2"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/3.jpg",
+        "name": "Saber Legend",
+        "script": "3"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/4.jpg",
+        "name": "Miya Legend",
+        "script": "4"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/5.jpg",
+        "name": "Gord Legend",
+        "script": "5"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/6.jpg",
+        "name": "Gusion Legend",
+        "script": "6"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/7.jpg",
+        "name": "Alucard Legend",
+        "script": "7"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/9.jpg",
+        "name": "Blazing Bounty",
+        "script": "8"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/11.jpg",
+        "name": "Wave of World",
+        "script": "9"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/15.jpg",
+        "name": "Summer Gala",
+        "script": "10"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/20.jpg",
+        "name": "Snowman",
+        "script": "11"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/24.jpg",
+        "name": "Party King",
+        "script": "12"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/21.jpg",
+        "name": "Sky Guardian",
+        "script": "13"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/14.jpg",
+        "name": "Starlight",
+        "script": "14"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/17.jpg",
+        "name": "Zodiac",
+        "script": "15"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/12.jpg",
+        "name": "Venom",
+        "script": "16"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/19.jpg",
+        "name": "Spring",
+        "script": "17"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/28.jpg",
+        "name": "Mcl",
+        "script": "18"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/13.jpg",
+        "name": "Msc",
+        "script": "19"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/10.jpg",
+        "name": "M2",
+        "script": "20"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/31.jpg",
+        "name": "Kof",
+        "script": "21"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/16.jpg",
+        "name": "Super Return",
+        "script": "22"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/22.jpg",
+        "name": "Seal Enternal",
+        "script": "23"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/8.jpg",
+        "name": "Super Chou",
+        "script": "24"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/18.jpg",
+        "name": "Saber",
+        "script": "25"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/23.jpg",
+        "name": "Seal Anvil",
+        "script": "26"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/25.jpg",
+        "name": "Oriental",
+        "script": "27"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/26.jpg",
+        "name": "Lightborn",
+        "script": "28"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/27.jpg",
+        "name": "M1 Evos",
+        "script": "29"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/29.jpg",
+        "name": "Light & Dark",
+        "script": "30"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/30.jpg",
+        "name": "Super Lance",
+        "script": "31"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/32.jpg",
+        "name": "Emerald road",
+        "script": "32"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/33.jpg",
+        "name": "Fire Crown",
+        "script": "33"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/34.jpg",
+        "name": "Halloween",
+        "script": "34"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/35.jpg",
+        "name": "Dragon Mark",
+        "script": "35"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/36.jpg",
+        "name": "Christmas",
+        "script": "36"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/37.jpg",
+        "name": "Carp Wind",
+        "script": "37"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/38.jpg",
+        "name": "Blazing West",
+        "script": "38"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL-IMG/raw/main/39.jpg",
+        "name": "2019 M1 Glory",
+        "script": "39"
+    },
+    {
+        "img": "https://github.com/pleaset/img/raw/main/PicsArt_04-08-12.13.35.jpg",
+        "name": "Granger Legend",
+        "script": "40"
+    },
+    {
+        "img": "https://github.com/pleaset/img/raw/main/PicsArt_04-08-12.13.35.jpg",
+        "name": "Transformer",
+        "script": "41"
+    },
+    {
+        "img": "https://github.com/lanz132/1.33/raw/main/PicsArt_09-09-11.54.00.jpg",
+        "name": "Starwars",
+        "script": "42"
+    },
+    {
+        "img": "https://github.com/pleaset/1.24/raw/main/PicsArt_06-28-06.05.27.jpg",
+        "name": "Abyss",
+        "script": "43"
+    },
+    {
+        "img": "https://github.com/lanz132/1.38/raw/main/R%20abbys.jpg",
+        "name": "Storm",
+        "script": "44"
+    },
+    {
+        "img": "https://github.com/lanz132/1.38/raw/main/storm.jpg",
+        "name": "Stun",
+        "script": "45"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/effect_ABC/raw/main/Recall%20S.T.U.N.png",
+        "name": "Bren",
+        "script": "46"
+    },
+    {
+        "img": "https://github.com/pleaset/1.28/raw/main/PicsArt_07-28-09.38.12.jpg",
+        "name": "Valir Legend",
+        "script": "47"
+    },
+    {
+        "img": "https://github.com/lanz132/1.34/raw/main/PicsArt_09-20-03.25.41.jpg",
+        "name": "Roger Prime",
+        "script": "48"
+    },
+    {
+        "img": "https://github.com/lanz132/1.74/raw/main/R1.jpg",
+        "name": "Esmeralda Hero",
+        "script": "49"
+    },
+    {
+        "img": "https://github.com/lanz132/1.38/raw/main/hero.jpg",
+        "name": "Dashing cat",
+        "script": "50"
+    },
+    {
+        "img": "https://github.com/BANGMAMET1995/Update24/raw/main/Recall%20grenger%20legend.png",
+        "name": "Anual star",
+        "script": "51"
+    },
+    {
+        "img": "https://github.com/lanz132/1.74/raw/main/R2.jpg",
+        "name": "Hello Kitty",
+        "script": "52"
+    },
+    {
+        "img": "https://github.com/lanz132/1.74/raw/main/R3.jpg",
+        "name": "Guinevere Legend",
+        "script": "53"
+    },
+    {
+        "img": "https://github.com/lanz132/2.0/raw/main/IMG_20220415_150112.jpg",
+        "name": "Mworld",
+        "script": "54"
+    },
+    {
+        "img": "https://github.com/lanz132/1.74/raw/main/R4.jpg",
+        "name": "Exorcist",
+        "script": "55"
+    },
+    {
+        "img": "https://github.com/lanz132/1.74/raw/main/R5.jpg",
+        "name": "Black void",
+        "script": "56"
+    },
+    {
+        "img": "https://github.com/lanz132/1.74/raw/main/R6.jpg",
+        "name": "Saint Seiya",
+        "script": "57"
+    },
+    {
+        "img": "https://github.com/lanz132/1.74/raw/main/R7.jpg",
+        "name": "AllStar",
+        "script": "58"
+    },
+    {
+        "img": "https://github.com/lanz132/1.74/raw/main/R8.jpg",
+        "name": "Franco Legend",
+        "script": "59"
+    },
+    {
+        "img": "https://github.com/lanz132/1.74/raw/main/R9.jpg",
+        "name": "Lunox Legend",
+        "script": "60"
+    },
+    {
+        "img": "https://github.com/lanz132/1.78/raw/main/Screenshot_2023-07-02-02-04-45-240_mobile.legends.patcher-edit.jpg",
+        "name": "Clouds",
+        "script": "61"
+    },
+    {
+        "img": "https://github.com/lanz132/Img/raw/main/ducati.jpg",
+        "name": "Ducati",
+        "script": "62"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/main/Dragon.jpg",
+        "name": "Dragon",
+        "script": "63"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/main/Egg.jpg",
+        "name": "Luck Golden Egg",
+        "script": "64"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/main/Neobeast.jpg",
+        "name": "Neo beast",
+        "script": "65"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/main/Angela%20star.jpg",
+        "name": "Angela anual star",
+        "script": "66"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/main/M5.jpg",
+        "name": "M5",
+        "script": "67"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/main/M5%20prime.jpg",
+        "name": "M5 Prime",
+        "script": "68"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/main/butterfly.jpg",
+        "name": "Selena Butterfly",
+        "script": "69"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/main/Benders.jpg",
+        "name": "Mistbenders",
+        "script": "70"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/main/freyalegend.jpg",
+        "name": "Freya Legend",
+        "script": "71"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/blob/main/raw.png",
+        "name": "Attack on titan",
+        "script": "72"
+    },
+    {
+        "img": "https://github.com/Hiro161123/Gbeffect/raw/main/Recall%20MRL1.png",
+        "name": "Champions Return",
+        "script": "73"
+    },
+    {
+        "img": "https://github.com/Hiro161123/Gbeffect/raw/main/Recall%20MRL2.png",
+        "name": "Champions Here",
+        "script": "74"
+    },
+    {
+        "img": "https://github.com/Hiro161123/Gbeffect/raw/main/Recall%20soul%20vessel.png",
+        "name": "Soul Vessel",
+        "script": "75"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/76.jpg",
+        "name": "RORA",
+        "script": "76"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/77.jpg",
+        "name": "EVOS",
+        "script": "77"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/78.jpg",
+        "name": "FCAP",
+        "script": "78"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/79.jpg",
+        "name": "FNOP",
+        "script": "79"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/80.jpg",
+        "name": "GEEK",
+        "script": "80"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/81.jpg",
+        "name": "OMG",
+        "script": "81"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/82.jpg",
+        "name": "RBL",
+        "script": "82"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/83.jpg",
+        "name": "RSG",
+        "script": "83"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/84.jpg",
+        "name": "TLID",
+        "script": "84"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/85.jpg",
+        "name": "TLPH",
+        "script": "85"
+    },
+    {
+        "img": "https://github.com/lanz132/RECALL/raw/refs/heads/main/86.jpg",
+        "name": "TNC",
+        "script": "86"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/lanz132/NEW_FILE/refs/heads/main/%20Naruto.jpg",
+        "name": "Naruto",
+        "script": "87"
+    }
 ]
