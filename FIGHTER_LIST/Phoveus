@@ -1,14 +1,12 @@
 [
-  {
-    "name": "Shadow of Dread",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFOlpoPpKvhPG1FHsKP0dw5sCmoYAcZrklzA&usqp=CAU",
-    "script": 130,
-    "tag": null
-  },
-  {
-    "name": "Horror Bringer",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYytlHxqnc2gFO2r93INTSufAABZ9dMHbcQ&usqp=CAU",
-    "script": 131,
-    "tag": null
-  }
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFOlpoPpKvhPG1FHsKP0dw5sCmoYAcZrklzA&usqp=CAU",
+        "name": "Shadow of Dread",
+        "script": 130
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYytlHxqnc2gFO2r93INTSufAABZ9dMHbcQ&usqp=CAU",
+        "name": "Horror Bringer",
+        "script": 131
+    }
 ]
