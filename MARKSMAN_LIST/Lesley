@@ -1,1 +1,71 @@
-[{"img":"https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png/revision/latest?cb\u003d20220824141739","name":"Deadly Sniper","script":"1"},{"img":"https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero538-portrait.png/revision/latest?cb\u003d20220525165407","name":"Lethal Lady","tag":"https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb\u003d20230214083603","script":"2"},{"img":"https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero533-portrait.png/revision/latest?cb\u003d20220525165401","name":"General Rosa","tag":"https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb\u003d20210414064230","script":"3"},{"img":"https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest?cb\u003d20220525165402","name":"Cheergunner","tag":"https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb\u003d20210414064523","script":"4"},{"img":"https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest?cb\u003d20220915121813","name":"Dangerous Love","tag":"https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb\u003d20220301023844","script":"5"},{"img":"https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest?cb\u003d20230805043856","name":"Stellaris Ghost","tag":"https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb\u003d20220216162258","script":"6"},{"img":"https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest?cb\u003d20220525165406","name":"Angelic Agent","tag":"https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb\u003d20210414064339","script":"7"},{"img":"https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest?cb\u003d20220525165408","name":"Falcon Mistress","tag":"https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb\u003d20220216235857","script":"8"},{"img":"https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest?cb\u003d20221103134621","name":"Hawk-eyed Sniper","tag":"https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb\u003d20211211020157","script":"9"},{"img":"https://github.com/lanz132/Img/raw/main/lesleyaspi.jpg","name":"Deadeye Spectre","script":"161"},{"img":"https://github.com/lanz132/BANNER/raw/refs/heads/main/lesley%20covenant.png","name":"Dutches of the Tide","script":"178"}]
+[
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png/revision/latest?cb=20220824141739",
+        "name": "Deadly Sniper",
+        "script": "1"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero538-portrait.png/revision/latest?cb=20220525165407",
+        "name": "Lethal Lady",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603",
+        "script": "2"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero533-portrait.png/revision/latest?cb=20220525165401",
+        "name": "General Rosa",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230",
+        "script": "3"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest?cb=20220525165402",
+        "name": "Cheergunner",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523",
+        "script": "4"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest?cb=20220915121813",
+        "name": "Dangerous Love",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220301023844",
+        "script": "5"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest?cb=20230805043856",
+        "name": "Stellaris Ghost",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258",
+        "script": "6"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest?cb=20220525165406",
+        "name": "Angelic Agent",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339",
+        "script": "7"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest?cb=20220525165408",
+        "name": "Falcon Mistress",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857",
+        "script": "8"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest?cb=20221103134621",
+        "name": "Hawk-eyed Sniper",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20211211020157",
+        "script": "9"
+    },
+    {
+        "img": "https://github.com/lanz132/Img/raw/main/lesleyaspi.jpg",
+        "name": "Deadeye Spectre",
+        "script": "161"
+    },
+    {
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/lesley%20covenant.png",
+        "name": "Dutches of the Tide",
+        "script": "178"
+    },
+    {
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781188.png",
+        "name": "Sharp Gold",
+        "tag": "(No Tags)",
+        "script": "184"
+    }
+]
