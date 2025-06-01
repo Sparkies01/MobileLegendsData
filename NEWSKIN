@@ -3,21 +3,21 @@
   {
     "hero": "Lesley",
     "name": "Sharp Gold",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781188.png",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781090.jpg",
     "role": "Marksman",
     "pos":"3"
   },
   {
     "hero": "Silvana",
     "name": "Earth Guardian",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781189.png",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781092.jpg",
     "role": "Fighter",
      "pos":"1"
   },
   {
     "hero": "Julian",
     "name": "Locking Flame",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781190.png",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781094.jpg",
     "role": "Fighter",
      "pos":"2"
   },
