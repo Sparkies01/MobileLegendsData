@@ -1,24 +1,24 @@
 
 [
   {
-    "hero": "Lukas",
-    "name": "Naruto Uzumaki",
-    "img": "https://github.com/lanz132/BANNER/raw/main/naruto.jpg",
-    "role": "Fighter",
+    "hero": "Lesley",
+    "name": "Sharp Gold",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781188.png",
+    "role": "Marksman",
     "pos":"3"
   },
   {
-    "hero": "Suyou",
-    "name": "Sasuke Uchiha",
-    "img": "https://github.com/lanz132/BANNER/raw/main/sasuke.jpg",
-    "role": "Assasin",
+    "hero": "Silvana",
+    "name": "Earth Guardian",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781189.png",
+    "role": "Fighter",
      "pos":"1"
   },
   {
-    "hero": "Hayabusa",
-    "name": "Kakashi Hatake",
-    "img": "https://github.com/lanz132/BANNER/raw/main/kakashe.jpg",
-    "role": "Assasin",
+    "hero": "Julian",
+    "name": "Locking Flame",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781190.png",
+    "role": "Fighter",
      "pos":"2"
   },
   {
