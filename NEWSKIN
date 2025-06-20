@@ -1,5 +1,19 @@
 
 [
+{
+  "hero": "Natan",
+    "name": "Archon of Knowledge",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000788676.jpg",
+    "role": "Fighter",
+     "pos":"2"
+  },
+  {
+    "hero": "Lou Yi",
+    "name": "Startborne Matron",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000788674.jpg",
+    "role": "Fighter",
+    "pos":"4"
+  },
   {
     "hero": "Wanwan",
     "name": "Summer Splash",
@@ -20,19 +34,5 @@
     "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000782882.jpg",
     "role": "Fighter",
      "pos":"1"
-  },
-  {
-    "hero": "Popol and Kupa",
-    "name": "Pronto Hunter",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000782957.jpg",
-    "role": "Fighter",
-     "pos":"2"
-  },
-  {
-    "hero": "Eudora",
-    "name": "Emerald Enchantress",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000783087.jpg",
-    "role": "Fighter",
-    "pos":"4"
   }
 ]
