@@ -22,18 +22,19 @@
      "pos":""
   },
   {
-    "hero": "Jawhead",
-    "name": "Proto Guardian",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000782879.jpg",
+    "hero": "Moskov",
+    "name": "Harbinger of Chaos",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062397.jpg",
     "role": "Fighter",
     "pos":"3"
   },
   {
-    "hero": "Kadita",
-    "name": "Maiden of Tide",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000782882.jpg",
+    "hero": "Badang",
+    "name": "Steel Arm",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062398.jpg",
     "role": "Fighter",
      "pos":"1"
   }
 ]
+
 
