@@ -1,23 +1,23 @@
 
 [
 {
-  "hero": "Natan",
-    "name": "Archon of Knowledge",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000788676.jpg",
+  "hero": "X borg",
+    "name": "Invoker's Frame",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062395.jpg",
     "role": "Fighter",
      "pos":"2"
   },
   {
-    "hero": "Lou Yi",
-    "name": "Startborne Matron",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000788674.jpg",
+    "hero": "Roger",
+    "name": "Invoker's Restrain",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062396.jpg",
     "role": "Fighter",
     "pos":"4"
   },
   {
-    "hero": "Wanwan",
-    "name": "Summer Splash",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000787176.jpg",
+    "hero": "Ixia",
+    "name": "Invoker's Command",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062394.jpg",
     "role": "Mage",
      "pos":""
   },
@@ -36,3 +36,4 @@
      "pos":"1"
   }
 ]
+
