@@ -67,5 +67,11 @@
         "name": "Mikasa Ackerman",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png/revision/latest/thumbnail-down/width/74/height/20?cb=20240127075501",
         "script": 104
+    },
+    {
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077460.jpg",
+        "name": "P.ACE Fanny",
+        "tag": "(No Tags)",
+        "script": "128"
     }
 ]
