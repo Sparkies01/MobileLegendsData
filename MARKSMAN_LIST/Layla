@@ -1,58 +1,64 @@
 [
-  {
-    "name": "Energy Gunner",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20220525164711",
-    "script": "60"
-  },
-  {
-    "name": "Green Flash",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero182-portrait.png/revision/latest?cb=20220525164719",
-    "script": "61"
-  },
-  {
-    "name": "Blue Spectre",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest?cb=20220525164722",
-    "script": "62"
-  },
-  {
-    "name": "Classic Malefic Gunner",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero186-portrait.png/revision/latest?cb=20220525164723",
-    "script": "63"
-  },
-  {
-    "name": "Blazing Gun",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest?cb=20220525164728",
-    "script": "64",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220714101551"
-  },
-  {
-    "name": "S.A.B.E.R. Breacher",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero187-portrait.png/revision/latest?cb=20220525164724",
-    "script": "65",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220714101551"
-  },
-  {
-    "name": "Bunny Babe",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero183-portrait.png/revision/latest?cb=20220525164720",
-    "script": "66",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
-  },
-  {
-    "name": "Cannon and Roses",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero184-portrait.png/revision/latest?cb=20220525164721",
-    "script": "67",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220301023844"
-  },
-  {
-    "name": "Miss Hikari",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest?cb=20220525164729",
-    "script": "68",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220113105226"
-  },
-  {
-    "name": "Paranormal Operative",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101811-portrait.png/revision/latest?cb=20240619172008",
-    "script": "168",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
-  }
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20220525164711",
+        "name": "Energy Gunner",
+        "script": "60"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero182-portrait.png/revision/latest?cb=20220525164719",
+        "name": "Green Flash",
+        "script": "61"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest?cb=20220525164722",
+        "name": "Blue Spectre",
+        "script": "62"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero186-portrait.png/revision/latest?cb=20220525164723",
+        "name": "Classic Malefic Gunner",
+        "script": "63"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest?cb=20220525164728",
+        "name": "Blazing Gun",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220714101551",
+        "script": "64"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero187-portrait.png/revision/latest?cb=20220525164724",
+        "name": "S.A.B.E.R. Breacher",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220714101551",
+        "script": "65"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero183-portrait.png/revision/latest?cb=20220525164720",
+        "name": "Bunny Babe",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603",
+        "script": "66"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero184-portrait.png/revision/latest?cb=20220525164721",
+        "name": "Cannon and Roses",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220301023844",
+        "script": "67"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest?cb=20220525164729",
+        "name": "Miss Hikari",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220113105226",
+        "script": "68"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101811-portrait.png/revision/latest?cb=20240619172008",
+        "name": "Paranormal Operative",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857",
+        "script": "168"
+    },
+    {
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077463.jpg",
+        "name": "The Beacon",
+        "tag": "(No Tags)",
+        "script": "190"
+    }
 ]
