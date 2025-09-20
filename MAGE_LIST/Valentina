@@ -1,36 +1,42 @@
 [
-  {
-    "name": "Prophetess of the Night",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1101-portrait.png/revision/latest?cb=20220525171648",
-    "script": "128"
-  },
-  {
-    "name": "Twilight Charmer",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest?cb=20220525170523",
-    "script": "129"
-  },
-  {
-    "name": "Archmagister",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1103-portrait.png/revision/latest?cb=20220804115341",
-    "script": "130",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
-  },
-  {
-    "name": "Cyber Agent",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest?cb=20230212035444",
-    "script": "140",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
-  },
-  {
-    "name": "Calestial Judicator",
-    "img": "https://raw.githubusercontent.com/lanz132/NEWIMG/main/Valentina%20col.jpg",
-    "script": "141",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
-  },
-  {
-    "name": "Dark Nexus",
-    "img": "https://github.com/lanz132/NEWIMG/raw/main/jun_valentina.jpg",
-    "script": "170",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/MSC_2022_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20230915123939"
-  }
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1101-portrait.png/revision/latest?cb=20220525171648",
+        "name": "Prophetess of the Night",
+        "script": "128"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest?cb=20220525170523",
+        "name": "Twilight Charmer",
+        "script": "129"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1103-portrait.png/revision/latest?cb=20220804115341",
+        "name": "Archmagister",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230",
+        "script": "130"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest?cb=20230212035444",
+        "name": "Cyber Agent",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603",
+        "script": "140"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/lanz132/NEWIMG/main/Valentina%20col.jpg",
+        "name": "Calestial Judicator",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857",
+        "script": "141"
+    },
+    {
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/jun_valentina.jpg",
+        "name": "Dark Nexus",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/MSC_2022_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20230915123939",
+        "script": "170"
+    },
+    {
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077456.jpg",
+        "name": "Grand Gala",
+        "tag": "(No Tags)",
+        "script": "273"
+    }
 ]
