@@ -1,20 +1,23 @@
 [
-  {
-    "name": "Buoyant Performer",
-    "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Backup%20cici.png",
-    "script": 203,
-    "tag": null
-  },
-  {
-    "name": "Whimsical Carnival",
-    "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Basic%20skin%20cici.png",
-    "script": 204,
-    "tag": null
-  },
-  {
-    "name": "Circus Reverie",
-    "img": "https://github.com/raflinkk/SC/raw/refs/heads/main/CICI/Cici%20starlight.png",
-    "script": 230,
-    "tag": null
-  }
+    {
+        "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Backup%20cici.png",
+        "name": "Buoyant Performer",
+        "script": 203
+    },
+    {
+        "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Basic%20skin%20cici.png",
+        "name": "Whimsical Carnival",
+        "script": 204
+    },
+    {
+        "img": "https://github.com/raflinkk/SC/raw/refs/heads/main/CICI/Cici%20starlight.png",
+        "name": "Circus Reverie",
+        "script": 230
+    },
+    {
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077488.jpg",
+        "name": "P.ACE Cici",
+        "tag": "(No Tags)",
+        "script": "251"
+    }
 ]
