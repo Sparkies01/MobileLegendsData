@@ -1,40 +1,41 @@
 
 [
 {
-  "hero": "X borg",
-    "name": "Invoker's Frame",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062395.jpg",
+  "hero": "Beatrix",
+    "name": "SkyForce Maverick",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000078013.jpg",
     "role": "Fighter",
      "pos":"2"
   },
   {
-    "hero": "Roger",
-    "name": "Invoker's Restrain",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062396.jpg",
+    "hero": "Aamon",
+    "name": "Soul Reaver",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000078012.jpg",
     "role": "Fighter",
     "pos":"4"
   },
   {
-    "hero": "Ixia",
-    "name": "Invoker's Command",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062394.jpg",
+    "hero": "Vexana",
+    "name": "Daybreak Halo",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000078017.jpg",
     "role": "Mage",
      "pos":""
   },
   {
-    "hero": "Moskov",
-    "name": "Harbinger of Chaos",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062397.jpg",
+    "hero": "Thamuz",
+    "name": "The Annihilator",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000078014.jpg",
     "role": "Fighter",
     "pos":"3"
   },
   {
-    "hero": "Badang",
-    "name": "Steel Arm",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062398.jpg",
+    "hero": "Layla",
+    "name": "The Beacon",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000078016.jpg",
     "role": "Fighter",
      "pos":"1"
   }
 ]
+
 
 
