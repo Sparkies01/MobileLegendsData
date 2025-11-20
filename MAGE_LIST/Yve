@@ -1,18 +1,24 @@
 [
-  {
-    "name": "Astrowarden",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20220920092448",
-    "script": "125"
-  },
-  {
-    "name": "Forest Hymn",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero1012-portrait.png/revision/latest?cb=20220525170334",
-    "script": "126"
-  },
-  {
-    "name": "Ruin Protectress",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
-    "script": "127",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
-  }
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20220920092448",
+        "name": "Astrowarden",
+        "script": "125"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero1012-portrait.png/revision/latest?cb=20220525170334",
+        "name": "Forest Hymn",
+        "script": "126"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
+        "name": "Ruin Protectress",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230",
+        "script": "127"
+    },
+    {
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089019.jpg",
+        "name": "Radiant Lotus",
+        "tag": "(No Tags)",
+        "script": "278"
+    }
 ]
