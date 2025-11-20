@@ -1,41 +1,42 @@
 
 [
 {
-  "hero": "Beatrix",
-    "name": "SkyForce Maverick",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000078013.jpg",
+  "hero": "Paquito",
+    "name": "Demontech Striker",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089040.jpg",
     "role": "Fighter",
      "pos":"2"
   },
   {
-    "hero": "Aamon",
-    "name": "Soul Reaver",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000078012.jpg",
+    "hero": "Sun",
+    "name": "Queller of Chaos",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089045.jpg",
     "role": "Fighter",
     "pos":"4"
   },
   {
-    "hero": "Vexana",
-    "name": "Daybreak Halo",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000078017.jpg",
+    "hero": "Bane",
+    "name": "Lord of Scalding Seas",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089042.jpg",
     "role": "Mage",
      "pos":""
   },
   {
-    "hero": "Thamuz",
-    "name": "The Annihilator",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000078014.jpg",
+    "hero": "Xavier",
+    "name": "Sunborn Monarch",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089041.jpg",
     "role": "Fighter",
     "pos":"3"
   },
   {
-    "hero": "Layla",
-    "name": "The Beacon",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000078016.jpg",
+    "hero": "Yve",
+    "name": "Radiant Lotus",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089046.jpg",
     "role": "Fighter",
      "pos":"1"
   }
 ]
+
 
 
 
