@@ -61,5 +61,11 @@
         "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Clint%20mythic.png",
         "name": "Dragons Maw",
         "script": "176"
+    },
+    {
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103254.jpg",
+        "name": "Crimson Blast",
+        "tag": "(No Tags)",
+        "script": "192"
     }
 ]
