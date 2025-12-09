@@ -1,41 +1,42 @@
 
 [
 {
-  "hero": "Paquito",
-    "name": "Demontech Striker",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089040.jpg",
+  "hero": "Cecilion",
+    "name": "Crimson Wings",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103244.jpg",
     "role": "Fighter",
      "pos":"2"
   },
   {
-    "hero": "Sun",
-    "name": "Queller of Chaos",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089045.jpg",
+    "hero": "Clint",
+    "name": "Crimson Blast",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103242.jpg",
     "role": "Fighter",
     "pos":"4"
   },
   {
-    "hero": "Bane",
-    "name": "Lord of Scalding Seas",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089042.jpg",
+    "hero": "Benedetta",
+    "name": "Death Oath",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103240.jpg",
     "role": "Mage",
      "pos":""
   },
   {
-    "hero": "Xavier",
-    "name": "Sunborn Monarch",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089041.jpg",
+    "hero": "Granger",
+    "name": "Thunder Ascendant",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103246.jpg",
     "role": "Fighter",
     "pos":"3"
   },
   {
-    "hero": "Yve",
-    "name": "Radiant Lotus",
-    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089046.jpg",
+    "hero": "Kimmy",
+    "name": "High Seas Cadet",
+    "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103241.jpg",
     "role": "Fighter",
      "pos":"1"
   }
 ]
+
 
 
 
