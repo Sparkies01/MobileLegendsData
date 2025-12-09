@@ -1,64 +1,70 @@
 [
-  {
-    "name": "Death Chanter",
-    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Backup%20granger.png",
-    "script": "10"
-  },
-  {
-    "name": "Bardic Whisper",
-    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Basic%20skin%20granger.png",
-    "script": "176"
-  },
-  {
-    "name": "Doomsday Terminator",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Doomsday_Terminator.jpg/revision/latest/scale-to-width-down/250?cb=20211010080956",
-    "script": "11",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
-  },
-  {
-    "name": "Biosoldier",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Biosoldier.jpg/revision/latest/scale-to-width-down/250?cb=20211010081014",
-    "script": "12",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
-  },
-  {
-    "name": "Lightborn - Overrider",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Lightborn_-_Overrider.jpg/revision/latest/scale-to-width-down/250?cb=20211010081049",
-    "script": "13",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211211021856"
-  },
-  {
-    "name": "Agent Z",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Agent_Z.jpg/revision/latest/scale-to-width-down/250?cb=20211215200932",
-    "script": "14",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
-  },
-  {
-    "name": "Starfall Knight",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg/revision/latest/scale-to-width-down/250?cb=20211010081115",
-    "script": "15",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
-  },
-  {
-    "name": "Megatron",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Megatron.jpg/revision/latest/scale-to-width-down/250?cb=20220203090128",
-    "script": "16",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cb=20220217000003"
-  },
-  {
-    "name": "Alluring Enigma",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero107911-portrait.png/revision/latest?cb=20240201102949",
-    "script": "174",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest?cb=20220301023844"
-  },
-  {
-    "name": "Hellbringer",
-    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Granger%20create.png",
-    "script": "17"
-  },
-  {
-    "name": "Exorcist",
-    "img": "https://github.com/lanz132/NEWIMG/raw/main/grangerexorcist.jpg",
-    "script": "166"
-  }
+    {
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Backup%20granger.png",
+        "name": "Death Chanter",
+        "script": "10"
+    },
+    {
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Basic%20skin%20granger.png",
+        "name": "Bardic Whisper",
+        "script": "176"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Doomsday_Terminator.jpg/revision/latest/scale-to-width-down/250?cb=20211010080956",
+        "name": "Doomsday Terminator",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230",
+        "script": "11"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Biosoldier.jpg/revision/latest/scale-to-width-down/250?cb=20211010081014",
+        "name": "Biosoldier",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603",
+        "script": "12"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Lightborn_-_Overrider.jpg/revision/latest/scale-to-width-down/250?cb=20211010081049",
+        "name": "Lightborn - Overrider",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211211021856",
+        "script": "13"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Agent_Z.jpg/revision/latest/scale-to-width-down/250?cb=20211215200932",
+        "name": "Agent Z",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857",
+        "script": "14"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg/revision/latest/scale-to-width-down/250?cb=20211010081115",
+        "name": "Starfall Knight",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339",
+        "script": "15"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Megatron.jpg/revision/latest/scale-to-width-down/250?cb=20220203090128",
+        "name": "Megatron",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cb=20220217000003",
+        "script": "16"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero107911-portrait.png/revision/latest?cb=20240201102949",
+        "name": "Alluring Enigma",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest?cb=20220301023844",
+        "script": "174"
+    },
+    {
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Granger%20create.png",
+        "name": "Hellbringer",
+        "script": "17"
+    },
+    {
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/grangerexorcist.jpg",
+        "name": "Exorcist",
+        "script": "166"
+    },
+    {
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103250.jpg",
+        "name": "Thunder Ascendant",
+        "tag": "(No Tags)",
+        "script": "193"
+    }
 ]
