@@ -1,6 +1,6 @@
 [
   {
-    "name": "Classic",
+    "name": "Backup",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Classic_Notification.png/revision/latest/scale-to-width-down/100?cb=20211203140825",
     "script": "1"
   },
@@ -29,4 +29,5 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Starlight_Notification.png/revision/latest/scale-to-width-down/100?cb=20211203143017",
     "script": "6"
   }
+
 ]
