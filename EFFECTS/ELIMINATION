@@ -1,6 +1,6 @@
 [
   {
-    "name": "Classic",
+    "name": "Backup",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Classic_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204075319",
     "script": "1"
   },
@@ -84,4 +84,5 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Knockout_Elimination_Effect.png/revision/latest/scale-to-width-down/100?cb=20210907052054",
     "script": "17"
   }
+
 ]
