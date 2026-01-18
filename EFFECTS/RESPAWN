@@ -1,6 +1,6 @@
 [
   {
-    "name": "Classic",
+    "name": "Backup",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Classic_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203144023",
     "script": "1"
   },
@@ -89,4 +89,5 @@
     "img": "https://github.com/lanz132/1.74/raw/main/S3.jpg",
     "script": "18"
   }
+
 ]
